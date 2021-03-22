@@ -58,10 +58,14 @@ def label_section_to_patent_claim_similarity(labels_section_od,
             patent_claim_similarity_list = []
             for patent_num in patent_od.keys():
                 for claim_num in patent_od[patent_num].keys():
-                    similarity = get_similarity(
-                        section_text, patent_od[patent_num][claim_num], method)
+                    similarity_highest = 0
+                    for claim_text in patent_od[patent_num][claim_num]:
+                        # test each alternative claim_text and choose
+                        # highest similarity value
+                        similarity = get_similarity(
+                            section_text, claim_text, method)
                     patent_claim_similarity_list.append(
-                        (patent_num, claim_num, similarity))
+                        (patent_num, claim_num, similarity_highest))
             # sort by similarity value
             patent_claim_similarity_list.sort(key=lambda x: x[2], reverse=True)
             return_od[title] = patent_claim_similarity_list
