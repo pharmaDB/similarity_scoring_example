@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="http://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 http://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="62a1e4aa-1eec-4096-be5f-9863e73df8f1"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use INOmax safely and effectively.  See full prescribing information for INOmax.<br/>
+      <br/>INOmax (nitric oxide) for inhalation<br/>Initial U.S. Approval:  1999</title>
+   <effectiveTime value="20130301"/>
+   <setId root="762b51be-1893-4cd1-9511-e645fc420d3a"/>
+   <versionNumber value="9"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="090546628" root="1.3.6.1.4.1.519.1"/>
+            <name>INO Therapeutics</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="017963946" root="1.3.6.1.4.1.519.1"/>
+                        <name>INO Therapeutics</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="64693-002" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="64693-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section ID="DLDE">
+               <id root="da3fcafb-a6dc-40e7-a0a8-7581b83960a3"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20130311"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="64693-002" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>INOmax</name>
+                        <formCode code="C42933" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="GAS"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>nitric oxide</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="0.98" unit="mg"/>
+                              <denominator value="1" unit="L"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="31C4KY9ESH" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>nitric oxide</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="31C4KY9ESH" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>nitric oxide</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1963" unit="L"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43189" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CYLINDER"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="64693-002-02" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="353" unit="L"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43189" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CYLINDER"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="64693-002-01" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA020845" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="19991223"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38216" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="RESPIRATORY (INHALATION)"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="64693-001" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>INOmax</name>
+                        <formCode code="C42933" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="GAS"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>nitric oxide</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="0.123" unit="mg"/>
+                              <denominator value="1" unit="L"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="31C4KY9ESH" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>nitric oxide</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="31C4KY9ESH" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>nitric oxide</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1963" unit="L"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43189" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CYLINDER"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="64693-001-02" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="353" unit="L"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43189" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CYLINDER"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="64693-001-01" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA020845" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="19991223"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38216" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="RESPIRATORY (INHALATION)"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="21e3720d-bb46-4916-b85b-c8e3e3806276"/>
+               <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <effectiveTime value="20130307"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <table width="100%" styleCode="Noautorules">
+                           <col width="60%" align="left" valign="bottom"/>
+                           <col width="40%" align="right" valign="bottom"/>
+                           <tbody>
+                              <tr>
+                                 <td>Dosage and Administration (<linkHtml href="#S2.2">2.2</linkHtml>)</td>
+                                 <td>03/2013</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S1">
+               <id root="aa0fb41e-8ac5-4b4a-9cda-566c8cd2b5f3"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <effectiveTime value="20130307"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>INOmax is a vasodilator, which, in conjunction with ventilatory support and other appropriate agents, is indicated for the treatment of term and near-term (&gt;34 weeks gestation) neonates with hypoxic respiratory failure associated with clinical or echocardiographic evidence of pulmonary hypertension, where it improves oxygenation and reduces the need for extracorporeal membrane oxygenation (<linkHtml href="#S1.1">1.1</linkHtml>).</paragraph>
+                        <paragraph>Monitor for PaO<sub>2</sub>, methemoglobin, and inspired NO<sub>2</sub> during INOmax administration (<linkHtml href="#S1.1">1.1</linkHtml>).</paragraph>
+                        <paragraph>Utilize additional therapies to maximize oxygen delivery (<linkHtml href="#S1.1">1.1</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S1.1">
+                     <id root="a100591f-6d58-4851-b4ab-752a07cdf9d4"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>1.1       Treatment of Hypoxic Respiratory Failure</title>
+                     <text>
+                        <paragraph>INOmax<content styleCode="bold">
+                              <sup>®</sup>
+                           </content> is a vasodilator, which, in conjunction with ventilatory support and other appropriate agents, is indicated for the treatment of term and near-term (&gt;34 weeks) neonates with hypoxic respiratory failure associated with clinical or echocardiographic evidence of pulmonary hypertension, where it improves oxygenation and reduces the need for extracorporeal membrane oxygenation.</paragraph>
+                        <paragraph>Utilize additional therapies to maximize oxygen delivery with validated ventilation systems [<content styleCode="italics">see <linkHtml href="#S2.2">Dosage and Administration (2.2)</linkHtml>
+                           </content>]<content styleCode="italics">.</content> In patients with collapsed alveoli, additional therapies might include surfactant and high-frequency oscillatory ventilation.</paragraph>
+                        <paragraph>The safety and effectiveness of INOmax have been established in a population receiving other therapies for hypoxic respiratory failure, including vasodilators, intravenous fluids, bicarbonate therapy, and mechanical ventilation. Different dose regimens for nitric oxide were used in the clinical studies [<content styleCode="italics">see <linkHtml href="#S14">Clinical Studies (14)</linkHtml>
+                           </content>].</paragraph>
+                        <paragraph>Monitor for PaO<sub>2</sub>, methemoglobin, and inspired NO<sub>2</sub> during INOmax administration.</paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S2">
+               <id root="a6c1986e-f9c0-4946-8fdc-b785a02acf25"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <text>
+                  <paragraph>To ensure safe and effective administration of INOmax to avoid adverse events associated with nitric oxide or NO<sub>2</sub>, administration of INOmax should only be performed by a health care professional who has completed and maintained training on the safe and effective use of a Nitric Oxide Delivery System provided by the manufacturer of the delivery system and the drug.   </paragraph>
+               </text>
+               <effectiveTime value="20130301"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Dosage: The recommended dose of INOmax is 20 ppm, maintained for up to 14 days or until the underlying oxygen desaturation has resolved (<linkHtml href="#S2.1">2.1</linkHtml>). </paragraph>
+                        <paragraph>Administration: </paragraph>
+                        <list>
+                           <item>Use only with an INOmax DS<sub>IR</sub>
+                              <sup>®</sup>, INOmax<sup>®</sup> DS, or INOvent<sup>®</sup> operated by trained personnel (<linkHtml href="#S2.2">2.2</linkHtml>)</item>
+                           <item>Wean from INOmax gradually (<linkHtml href="#S2.2">2.2</linkHtml>).</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S2.1">
+                     <id root="e655a87e-227d-40fa-94bc-b1674d82b60a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1       Dosage</title>
+                     <effectiveTime value="20130307"/>
+                     <component>
+                        <section>
+                           <id root="dd403dc4-45b3-43c1-bb29-7a96acd79879"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold underline">Term and near-term neonates with hypoxic respiratory failure</content>
+                              </paragraph>
+                              <paragraph>The recommended dose of INOmax is 20 ppm. Treatment should be maintained up to 14 days or until the underlying oxygen desaturation has resolved and the neonate is ready to be weaned from INOmax therapy.</paragraph>
+                              <paragraph>As the risk of methemoglobinemia and elevated NO<sub>2</sub> levels increases significantly when INOmax is administered at doses &gt;20 ppm; doses above this level are not recommended. </paragraph>
+                           </text>
+                           <effectiveTime value="20130307"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.2">
+                     <id root="3383a9a3-691a-4c60-aef8-c5d608b017ed"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2       Administration</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">Methemoglobin should be measured within 4-8 hours after initiation of treatment with INOmax and periodically throughout treatment [<content styleCode="italics">see <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml>
+                              </content>]. </content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20130301"/>
+                     <component>
+                        <section>
+                           <id root="a1c7acb9-65c8-49d8-bed4-fca897054930"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange">
+                                    <content styleCode="bold">Nitric Oxide Delivery Systems</content>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange">INOmax must be administered using the INOmax DS<sub>IR</sub>
+                                    <sup>®</sup>, INOmax<sup>®</sup> DS, or INOvent<sup>®</sup> Nitric Oxide Delivery Systems, which deliver operator-determined concentrations of nitric oxide in conjunction with a ventilator or breathing gas administration system after dilution with an oxygen/air mixture.  A Nitric Oxide Delivery System includes a nitric oxide administration apparatus, a nitric oxide gas analyzer and a nitrogen dioxide gas analyzer.  Failure to calibrate the Nitric Oxide Delivery System could result in under- or over- dosing of nitric oxide.</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange">To address potential power failure, keep available a backup battery power supply. To address potential system failure, keep available an independent reserve nitric oxide delivery system. Failure to transition to a reserve nitric oxide delivery system can result in abrupt or prolonged discontinuation of nitric oxide [<content styleCode="italics">see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>
+                                    </content>].</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20130301"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="cbcbbb52-2ade-481b-9c25-8256c325ca0c"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange">
+                                    <content styleCode="bold">Training in Administration </content>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange">The user of INOmax and Nitric Oxide Delivery Systems must complete a comprehensive training program for health care professionals provided by the delivery system and drug manufacturers.</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange">Health professional staff that administers nitric oxide therapy have access to supplier-provided 24 hour/365 days per year technical support on the delivery and administration of INOmax at 1-877-566-9466.</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20130301"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="56dda95d-8931-41e2-84ac-5ead956547d7"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange">
+                                    <content styleCode="bold">Weaning and Discontinuation</content>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange">Abrupt discontinuation of INOmax may lead to increasing pulmonary artery pressure (PAP) and worsening oxygenation even in neonates with no apparent response to nitric oxide for inhalation. To wean INOmax, downtitrate in several steps, pausing several hours at each step to monitor for hypoxemia.</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20130301"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S3">
+               <id root="e0a76ae6-3286-4b31-8be2-0493d9ac3ecd"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>INOmax (nitric oxide) for inhalation is a gas available in 100 ppm and 800 ppm concentrations.</paragraph>
+               </text>
+               <effectiveTime value="20130307"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>INOmax (nitric oxide) is a gas available in 100 ppm and 800 ppm concentrations (<linkHtml href="#S3">3</linkHtml>). </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S4">
+               <id root="e7822b79-562a-4d08-8cb6-2876144e8608"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>INOmax is contraindicated in the treatment of neonates known to be dependent on right-to-left shunting of blood.</paragraph>
+               </text>
+               <effectiveTime value="20101210"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Neonates known to be dependent on right-to-left shunting of blood (<linkHtml href="#S4">4</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S5">
+               <id root="de8cbee9-4d65-4960-a88a-dc22c79a790e"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20130311"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Rebound: Abrupt discontinuation of INOmax may lead to worsening oxygenation and increasing pulmonary artery pressure (<linkHtml href="#S5.1">5.1</linkHtml>).</paragraph>
+                        <paragraph>Methemoglobinemia: Methemoglobin increases with the dose of nitric oxide; following discontinuation or reduction of nitric oxide, methemoglobin levels return to baseline over a period of hours (<linkHtml href="#S5.2">5.2</linkHtml>). </paragraph>
+                        <paragraph>Elevated NO<sub>2</sub> Levels: Monitor NO<sub>2</sub> levels continuously with a suitable Nitric Oxide Delivery System (<linkHtml href="#S5.3">5.3</linkHtml>).</paragraph>
+                        <paragraph>Heart Failure: In patients with pre-existing left ventricular dysfunction, INOmax may increase pulmonary capillary wedge pressure leading to pulmonary edema (<linkHtml href="#S5.4">5.4</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S5.1">
+                     <id root="641ffb12-f768-4439-9b1d-55de3c7eb101"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1       Rebound Pulmonary Hypertension Syndrome following Abrupt Discontinuation</title>
+                     <text>
+                        <paragraph>Wean from INOmax [<content styleCode="italics">see <linkHtml href="#S2.2">Dosage and Administration (2.2)</linkHtml>
+                           </content>].  Abrupt discontinuation of INOmax may lead to worsening oxygenation and increasing pulmonary artery pressure, i.e., Rebound Pulmonary Hypertension Syndrome.  Signs and symptoms of Rebound Pulmonary Hypertension Syndrome include hypoxemia, systemic hypotension, bradycardia, and decreased cardiac output. If Rebound Pulmonary Hypertension occurs, reinstate INOmax therapy immediately.</paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.2">
+                     <id root="751e0f05-12fe-40af-8830-f15604c35219"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2       Hypoxemia from Methemoglobinemia</title>
+                     <text>
+                        <paragraph>Nitric oxide combines with hemoglobin to form methemoglobin, which does not transport oxygen. Methemoglobin levels increase with the dose of INOmax; it can take 8 hours or more before steady-state methemoglobin levels are attained. Monitor methemoglobin and adjust the dose of INOmax to optimize oxygenation.</paragraph>
+                        <paragraph>If methemoglobin levels do not resolve with decrease in dose or discontinuation of INOmax, additional therapy may be warranted to treat methemoglobinemia [<content styleCode="italics">see <linkHtml href="#S10">Overdosage (10)</linkHtml>
+                           </content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20130311"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.3">
+                     <id root="cdebfc77-8e65-42b5-8c75-2c59f1e6dcd3"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3       Airway Injury from Nitrogen Dioxide</title>
+                     <text>
+                        <paragraph>Nitrogen dioxide (NO<sub>2</sub>) forms in gas mixtures containing NO and O<sub>2</sub>.  Nitrogen dioxide may cause airway inflammation and damage to lung tissues. If the concentration of NO<sub>2</sub> in the breathing circuit exceeds 0.5 ppm, decrease the dose of INOmax.</paragraph>
+                        <paragraph>If there is an unexpected change in NO<sub>2</sub> concentration, when measured in the breathing circuit, then the delivery system should be assessed in accordance with the Nitric Oxide Delivery System O&amp;M Manual troubleshooting section, and the NO<sub>2</sub> analyzer should be recalibrated.  The dose of INOmax and/or FiO<sub>2</sub> should be adjusted as appropriate.</paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.4">
+                     <id root="483b6731-3e88-4095-93c3-633eab035f69"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4       Heart Failure</title>
+                     <text>
+                        <paragraph>Patients with left ventricular dysfunction treated with INOmax may experience pulmonary edema, increased pulmonary capillary wedge pressure, worsening of left ventricular dysfunction, systemic hypotension, bradycardia and cardiac arrest. Discontinue INOmax while providing symptomatic care.</paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S6">
+               <id root="14c1c835-f108-405e-a274-8145e69d0118"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The adverse reaction information from the clinical studies does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates. </paragraph>
+               </text>
+               <effectiveTime value="20130307"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Methemoglobinemia and NO<sub>2</sub> levels are dose dependent. The most common adverse reaction is hypotension (<linkHtml href="#S6">6</linkHtml>). </paragraph>
+                        <br/>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact INO Therapeutics at 1-877-566-9466 and http://www.inomax.com/ or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S6.1">
+                     <id root="bd1316f6-3573-459c-a726-78cd17d054df"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1       Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Controlled studies have included 325 patients on INOmax doses of 5 to 80 ppm and 251 patients on placebo. Total mortality in the pooled trials was 11% on placebo and 9% on INOmax, a result adequate to exclude INOmax mortality being more than 40% worse than placebo.</paragraph>
+                        <paragraph>In both the NINOS and CINRGI studies, the duration of hospitalization was similar in INOmax and placebo-treated groups.</paragraph>
+                        <paragraph>From all controlled studies, at least 6 months of follow-up is available for 278 patients who received INOmax and 212 patients who received placebo. Among these patients, there was no evidence of an adverse effect of treatment on the need for rehospitalization, special medical services, pulmonary disease, or neurological sequelae.</paragraph>
+                        <paragraph>In the NINOS study, treatment groups were similar with respect to the incidence and severity of intracranial hemorrhage, Grade IV hemorrhage, periventricular leukomalacia, cerebral infarction, seizures requiring anticonvulsant therapy, pulmonary hemorrhage, or gastrointestinal hemorrhage.</paragraph>
+                        <paragraph>In CINRGI, the only adverse reaction (&gt;2% higher incidence on INOmax than on placebo) was hypotension (14% vs. 11%).</paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S6.2">
+                     <id root="b6380c1c-3387-4668-be6f-5e513a2fd067"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.2       Post-Marketing Experience</title>
+                     <effectiveTime value="20130307"/>
+                     <component>
+                        <section>
+                           <id root="c09d8f2e-d414-4723-98e2-b1d2cc75b00a"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Accidental Exposure</content>
+                              </paragraph>
+                              <paragraph>Based upon post-marketing experience, accidental exposure to nitric oxide for inhalation in hospital staff has been associated with chest discomfort, dizziness, dry throat, dyspnea, and headache.</paragraph>
+                           </text>
+                           <effectiveTime value="20130307"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S7">
+               <id root="9e6900c9-35c1-4435-8f81-409c7eddcbc5"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7 DRUG INTERACTIONS</title>
+               <text>
+                  <paragraph>No formal drug-interaction studies have been performed, and a clinically significant interaction with other medications used in the treatment of hypoxic respiratory failure cannot be excluded based on the available data. INOmax has been administered with dopamine, dobutamine, steroids, surfactant, and high-frequency ventilation. Although there are no study data to evaluate the possibility, nitric oxide donor compounds, including sodium nitroprusside and nitroglycerin, may have an additive effect with INOmax on the risk of developing methemoglobinemia. An association between prilocaine and an increased risk of methemoglobinemia, particularly in infants, has specifically been described in a literature case report. This risk is present whether the drugs are administered as oral, parenteral, or topical formulations.</paragraph>
+               </text>
+               <effectiveTime value="20130311"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Nitric oxide donor agents</content>: Nitric oxide donor compounds, such as prilocaine, sodium nitroprusside, and nitroglycerin, when administered as oral, parenteral, or topical formulations, may have an additive effect with INOmax on the risk of developing methemoglobinemia (<linkHtml href="#S7">7</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S8">
+               <id root="7a9382d0-13c3-4dc3-bf15-fac96dad47f7"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20130307"/>
+               <component>
+                  <section ID="S8.1">
+                     <id root="35c49c02-3cb9-4f01-9fab-890ffd1c29bf"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <effectiveTime value="20101210"/>
+                     <component>
+                        <section>
+                           <id root="17bcd061-c369-4925-8f77-80afaf42f76e"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>Pregnancy Category C</paragraph>
+                              <paragraph>Animal reproduction studies have not been conducted with INOmax. It is not known if INOmax can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. INOmax is not intended for adults.</paragraph>
+                           </text>
+                           <effectiveTime value="20101210"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.2">
+                     <id root="03524c93-b4fc-49f5-b836-466fad18c087"/>
+                     <code code="34079-4" codeSystem="2.16.840.1.113883.6.1" displayName="LABOR &amp; DELIVERY SECTION"/>
+                     <title>8.2 Labor and Delivery</title>
+                     <text>
+                        <paragraph>The effect of INOmax on labor and delivery in humans is unknown.</paragraph>
+                     </text>
+                     <effectiveTime value="20101210"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.3">
+                     <id root="e433a6f3-69e4-4572-b516-c61e2d5269d2"/>
+                     <code code="34080-2" codeSystem="2.16.840.1.113883.6.1" displayName="NURSING MOTHERS SECTION"/>
+                     <title>8.3 Nursing Mothers</title>
+                     <text>
+                        <paragraph>Nitric oxide is not indicated for use in the adult population, including nursing mothers. It is not known whether nitric oxide is excreted in human milk.</paragraph>
+                     </text>
+                     <effectiveTime value="20101210"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.4">
+                     <id root="794caf15-3fb4-4422-a5b8-cf28f2c1f0dc"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>The safety and efficacy of nitric oxide for inhalation has been demonstrated in term and near-term neonates with hypoxic respiratory failure associated with evidence of pulmonary hypertension  [<content styleCode="italics">see <linkHtml href="#S14.1">Clinical Studies (14.1)</linkHtml>
+                           </content>]. Additional studies conducted in premature neonates for the prevention of bronchopulmonary dysplasia have not demonstrated substantial evidence of efficacy [<content styleCode="italics">see <linkHtml href="#S14.3">Clinical Studies (14.3)</linkHtml>
+                           </content>]<content styleCode="italics">.</content> No information about its effectiveness in other age populations is available. </paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.5">
+                     <id root="7904b0d7-7d57-42e1-b2ce-842291f1c682"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5	Geriatric Use</title>
+                     <text>
+                        <paragraph>Nitric oxide is not indicated for use in the adult population.</paragraph>
+                     </text>
+                     <effectiveTime value="20101210"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S10">
+               <id root="e1b15d48-45ef-4cdf-a4a3-20778a93723d"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>Overdosage with INOmax will be manifest by elevations in methemoglobin and pulmonary toxicities associated with inspired NO<sub>2</sub>. Elevated NO<sub>2</sub> may cause acute lung injury. Elevations in methemoglobin reduce the oxygen delivery capacity of the circulation. In clinical studies, NO<sub>2</sub> levels &gt;3 ppm or methemoglobin levels &gt;7% were treated by reducing the dose of, or discontinuing, INOmax.</paragraph>
+                  <paragraph>Methemoglobinemia that does not resolve after reduction or discontinuation of therapy can be treated with intravenous vitamin C, intravenous methylene blue, or blood transfusion, based upon the clinical situation. </paragraph>
+               </text>
+               <effectiveTime value="20130307"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S11">
+               <id root="6303e9bc-e8a6-465b-88b7-f0f167184e02"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>INOmax (nitric oxide gas) is a drug administered by inhalation. Nitric oxide, the active substance in INOmax, is a pulmonary vasodilator. INOmax is a gaseous blend of nitric oxide and nitrogen (0.08% and 99.92%, respectively for 800 ppm; 0.01% and 99.99%, respectively for 100 ppm). INOmax is supplied in aluminum cylinders as a compressed gas under high pressure (2000 pounds per square inch gauge [psig]).</paragraph>
+                  <paragraph>The structural formula of nitric oxide (NO) is shown below:</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM1"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20101210"/>
+               <component>
+                  <observationMedia ID="MM1">
+                     <text>Chemical Structure</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="inomax-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S12">
+               <id root="41147677-7022-48ff-b97c-c621831dd9ed"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20130307"/>
+               <component>
+                  <section ID="S12.1">
+                     <id root="6442a82b-9c45-4b48-969a-2e703838bde1"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Nitric oxide is a compound produced by many cells of the body. It relaxes vascular smooth muscle by binding to the heme moiety of cytosolic guanylate cyclase, activating guanylate cyclase and increasing intracellular levels of cyclic guanosine 3',5'-monophosphate, which then leads to vasodilation. When inhaled, nitric oxide selectively dilates the pulmonary vasculature, and because of efficient scavenging by hemoglobin, has minimal effect on the systemic vasculature.</paragraph>
+                        <paragraph>INOmax appears to increase the partial pressure of arterial oxygen (PaO<sub>2</sub>) by dilating pulmonary vessels in better ventilated areas of the lung, redistributing pulmonary blood flow away from lung regions with low ventilation/perfusion (V/Q) ratios toward regions with normal ratios.</paragraph>
+                     </text>
+                     <effectiveTime value="20101210"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.2">
+                     <id root="d328965e-8503-4079-868a-d45ac04fdd6f"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <effectiveTime value="20111209"/>
+                     <component>
+                        <section>
+                           <id root="99d5dc3f-2d2e-47ed-a5c4-411f1b10d186"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold underline">Effects on Pulmonary Vascular Tone in PPHN</content>
+                              </paragraph>
+                              <paragraph>Persistent pulmonary hypertension of the newborn (PPHN) occurs as a primary developmental defect or as a condition secondary to other diseases such as meconium aspiration syndrome (MAS), pneumonia, sepsis, hyaline membrane disease, congenital diaphragmatic hernia (CDH), and pulmonary hypoplasia. In these states, pulmonary vascular resistance (PVR) is high, which results in hypoxemia secondary to right-to-left shunting of blood through the patent ductus arteriosus and foramen ovale. In neonates with PPHN, INOmax improves oxygenation (as indicated by significant increases in PaO<sub>2</sub>).</paragraph>
+                           </text>
+                           <effectiveTime value="20111209"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.3">
+                     <id root="574a4093-bc4a-4212-8fa3-eb3b6689927d"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>The pharmacokinetics of nitric oxide has been studied in adults.</paragraph>
+                     </text>
+                     <effectiveTime value="20101210"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.4">
+                     <id root="5142fd78-b28c-40ea-a3db-1def93ce8a59"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Uptake and Distribution</content>
+                        </paragraph>
+                        <paragraph>Nitric oxide is absorbed systemically after inhalation. Most of it traverses the pulmonary capillary bed where it combines with hemoglobin that is 60% to 100% oxygen-saturated. At this level of oxygen saturation, nitric oxide combines predominantly with oxyhemoglobin to produce methemoglobin and nitrate. At low oxygen saturation, nitric oxide can combine with deoxyhemoglobin to transiently form nitrosylhemoglobin, which is converted to nitrogen oxides and methemoglobin upon exposure to oxygen. Within the pulmonary system, nitric oxide can combine with oxygen and water to produce nitrogen dioxide and nitrite, respectively, which interact with oxyhemoglobin to produce methemoglobin and nitrate. Thus, the end products of nitric oxide that enter the systemic circulation are predominantly methemoglobin and nitrate.</paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.5">
+                     <id root="7fc74b06-2fb8-4954-a770-41a22994a63e"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Metabolism</content>
+                        </paragraph>
+                        <paragraph>Methemoglobin disposition has been investigated as a function of time and nitric oxide exposure concentration in neonates with respiratory failure. The methemoglobin (MetHb) concentration-time profiles during the first 12 hours of exposure to 0, 5, 20, and 80 ppm INOmax are shown in Figure 1.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Figure 1:   Methemoglobin Concentration-Time Profiles Neonates Inhaling 0, 5, 20 or 80 ppm INOmax</content>
+                        </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="MM2"/>
+                        </paragraph>
+                        <paragraph>Methemoglobin concentrations increased during the first 8 hours of nitric oxide exposure. The mean methemoglobin level remained below 1% in the placebo group and in the 5 ppm and 20 ppm INOmax groups, but reached approximately 5% in the 80 ppm INOmax group. Methemoglobin levels &gt;7% were attained only in patients receiving 80 ppm, where they comprised 35% of the group. The average time to reach peak methemoglobin was 10 ± 9 (SD) hours (median, 8 hours) in these 13 patients, but one patient did not exceed 7% until 40 hours.</paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                     <component>
+                        <observationMedia ID="MM2">
+                           <text>Figure 1</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="inomax-02.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.6">
+                     <id root="cc26e3ba-d4cb-40aa-826f-ca63fc204e36"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Elimination</content>
+                        </paragraph>
+                        <paragraph>Nitrate has been identified as the predominant nitric oxide metabolite excreted in the urine, accounting for &gt;70% of the nitric oxide dose inhaled. Nitrate is cleared from the plasma by the kidney at rates approaching the rate of glomerular filtration.</paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S13">
+               <id root="591766f2-c2bd-4e46-9b46-67ddc81b07df"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20101210"/>
+               <component>
+                  <section ID="S13.1">
+                     <id root="2112cbfa-5548-474b-90ed-73bd3c397644"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>No evidence of a carcinogenic effect was apparent, at inhalation exposures up to the recommended dose (20 ppm), in rats for 20 hr/day for up to two years. Higher exposures have not been investigated.</paragraph>
+                        <paragraph>Nitric oxide has demonstrated genotoxicity in Salmonella (Ames Test), human lymphocytes, and after <content styleCode="italics">in vivo</content> exposure in rats.  There are no animal or human studies to evaluate nitric oxide for effects on fertility. </paragraph>
+                     </text>
+                     <effectiveTime value="20101210"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S14">
+               <id root="63e035a8-9108-4fc4-b512-4c375eb9d914"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <effectiveTime value="20130301"/>
+               <component>
+                  <section ID="S14.1">
+                     <id root="86b46d1a-c3cc-4198-ae96-569ca569e648"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.1     Treatment of Hypoxic Respiratory Failure (HRF)</title>
+                     <text>
+                        <paragraph>The efficacy of INOmax has been investigated in term and near-term newborns with hypoxic respiratory failure resulting from a variety of etiologies. Inhalation of INOmax reduces the oxygenation index (OI= mean airway pressure in cm H<sub>2</sub>O × fraction of inspired oxygen concentration [FiO<sub>2</sub>]× 100 divided by systemic arterial concentration in mm Hg [PaO<sub>2</sub>]) and increases PaO<sub>2</sub> [<content styleCode="italics">see <linkHtml href="#S12.1">Clinical Pharmacology (12.1)</linkHtml>
+                           </content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20130301"/>
+                     <component>
+                        <section>
+                           <id root="27bdd5a9-3a93-42a7-abde-87857a7a2bcd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold underline">NINOS Study</content>
+                              </paragraph>
+                              <paragraph>The Neonatal Inhaled Nitric Oxide Study (NINOS) was a double-blind, randomized, placebo-controlled, multicenter trial in 235 neonates with hypoxic respiratory failure. The objective of the study was to determine whether inhaled nitric oxide would reduce the occurrence of death and/or initiation of extracorporeal membrane oxygenation (ECMO) in a prospectively defined cohort of term or near-term neonates with hypoxic respiratory failure unresponsive to conventional therapy. Hypoxic respiratory failure was caused by meconium aspiration syndrome (MAS; 49%), pneumonia/sepsis (21%), idiopathic primary pulmonary hypertension of the newborn (PPHN; 17%), or respiratory distress syndrome (RDS; 11%). Infants ≤14 days of age (mean, 1.7 days) with a mean PaO<sub>2</sub> of 46 mm Hg and a mean oxygenation index (OI) of 43 cm H<sub>2</sub>O / mm Hg were initially randomized to receive 100% O<sub>2</sub> with (n=114) or without (n=121) 20 ppm nitric oxide for up to 14 days. Response to study drug was defined as a change from baseline in PaO<sub>2</sub> 30 minutes after starting treatment (full response = &gt;20 mm Hg, partial = 10–20 mm Hg, no response = &lt;10 mm Hg). Neonates with a less than full response were evaluated for a response to 80 ppm nitric oxide or control gas. The primary results from the NINOS study are presented in Table 1.</paragraph>
+                              <table width="90%">
+                                 <caption>Table 1:    Summary of Clinical Results from NINOS Study</caption>
+                                 <col width="25%" align="left" valign="top"/>
+                                 <col width="25%" align="center" valign="top"/>
+                                 <col width="25%" align="center" valign="top"/>
+                                 <col width="25%" align="center" valign="top"/>
+                                 <thead>
+                                    <tr>
+                                       <th styleCode="Lrule Rrule"/>
+                                       <th styleCode="Rrule">Control<br/>  (n=121)</th>
+                                       <th styleCode="Rrule">NO<br/>  (n=114)</th>
+                                       <th styleCode="Rrule">P value</th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Death or ECMO<footnote>Extracorporeal membrane oxygenation</footnote>
+                                          <sup>,</sup>
+                                          <footnote>Death or need for ECMO was the study's primary end point</footnote>
+                                       </td>
+                                       <td styleCode="Rrule">77 (64%)</td>
+                                       <td styleCode="Rrule">52 (46%)</td>
+                                       <td styleCode="Rrule">0.006</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Death</td>
+                                       <td styleCode="Rrule">20 (17%)</td>
+                                       <td styleCode="Rrule">16 (14%)</td>
+                                       <td styleCode="Rrule">0.60</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">ECMO</td>
+                                       <td styleCode="Rrule">66 (55%)</td>
+                                       <td styleCode="Rrule">44 (39%)</td>
+                                       <td styleCode="Rrule">0.014</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>Although the incidence of death by 120 days of age was similar in both groups (NO, 14%; control, 17%), significantly fewer infants in the nitric oxide group required ECMO compared with controls (39% vs. 55%, p = 0.014). The combined incidence of death and/or initiation of ECMO showed a significant advantage for the nitric oxide treated group (46% vs. 64%, p = 0.006). The nitric oxide group also had significantly greater increases in PaO<sub>2</sub> and greater decreases in the OI and the alveolar-arterial oxygen gradient than the control group (p&lt;0.001 for all parameters). Significantly more patients had at least a partial response to the initial administration of study drug in the nitric oxide group (66%) than the control group (26%, p&lt;0.001). Of the 125 infants who did not respond to 20 ppm nitric oxide or control, similar percentages of NO-treated (18%) and control (20%) patients had at least a partial response to 80 ppm nitric oxide for inhalation or control drug, suggesting a lack of additional benefit for the higher dose of nitric oxide. No infant had study drug discontinued for toxicity. Inhaled nitric oxide had no detectable effect on mortality. The adverse events collected in the NINOS trial occurred at similar incidence rates in both treatment groups [<content styleCode="italics">see <linkHtml href="#S6.1">Adverse Reactions (6.1)</linkHtml>
+                                 </content>]. Follow-up exams were performed at 18–24 months for the infants enrolled in this trial. In the infants with available follow-up, the two treatment groups were similar with respect to their mental, motor, audiologic, or neurologic evaluations.</paragraph>
+                           </text>
+                           <effectiveTime value="20130301"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="cfe6e846-8ca5-4bbf-8090-116b648f785f"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold underline">CINRGI Study</content>
+                              </paragraph>
+                              <paragraph>This study was a double-blind, randomized, placebo-controlled, multicenter trial of 186 term and near-term neonates with pulmonary hypertension and hypoxic respiratory failure. The primary objective of the study was to determine whether INOmax would reduce the receipt of ECMO in these patients. Hypoxic respiratory failure was caused by MAS (35%), idiopathic PPHN (30%), pneumonia/sepsis (24%), or RDS (8%). Patients with a mean PaO<sub>2</sub> of 54 mm Hg and a mean OI of 44 cm H<sub>2</sub>O / mm Hg were randomly assigned to receive either 20 ppm INOmax (n=97) or nitrogen gas (placebo; n=89) in addition to their ventilatory support. Patients who exhibited a PaO<sub>2 </sub>&gt;60 mm Hg and a pH &lt; 7.55 were weaned to 5 ppm INOmax or placebo. The primary results from the CINRGI study are presented in Table 2.</paragraph>
+                              <table width="90%">
+                                 <caption>Table 2:    Summary of Clinical Results from CINRGI Study</caption>
+                                 <col width="25%" align="left" valign="top"/>
+                                 <col width="25%" align="center" valign="top"/>
+                                 <col width="25%" align="center" valign="top"/>
+                                 <col width="25%" align="center" valign="top"/>
+                                 <thead>
+                                    <tr>
+                                       <th styleCode="Lrule Rrule"/>
+                                       <th styleCode="Rrule">Placebo</th>
+                                       <th styleCode="Rrule">INOmax</th>
+                                       <th styleCode="Rrule">P value</th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">ECMO<footnote>Extracorporeal membrane oxygenation</footnote>
+                                          <sup>,</sup>
+                                          <footnote>ECMO was the primary end point of this study</footnote>
+                                       </td>
+                                       <td styleCode="Rrule">51/89 (57%)</td>
+                                       <td styleCode="Rrule">30/97 (31%)</td>
+                                       <td styleCode="Rrule">&lt;0.001</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">Death</td>
+                                       <td styleCode="Rrule">5/89 (6%)</td>
+                                       <td styleCode="Rrule">3/97 (3%)</td>
+                                       <td styleCode="Rrule">0.48</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>Significantly fewer neonates in the INOmax group required ECMO compared to the control group (31% vs. 57%, p&lt;0.001). While the number of deaths were similar in both groups (INOmax, 3%; placebo, 6%), the combined incidence of death and/or receipt of ECMO was decreased in the INOmax group (33% vs. 58%, p&lt;0.001). </paragraph>
+                              <paragraph>In addition, the INOmax group had significantly improved oxygenation as measured by PaO<sub>2</sub>, OI, and alveolar-arterial gradient (p&lt;0.001 for all parameters). Of the 97 patients treated with INOmax, 2 (2%) were withdrawn from study drug due to methemoglobin levels &gt;4%. The frequency and number of adverse events reported were similar in the two study groups [<content styleCode="italics">see <linkHtml href="#S6.1">Adverse Reactions (6.1)</linkHtml>
+                                 </content>]. </paragraph>
+                              <paragraph>In clinical trials, reduction in the need for ECMO has not been demonstrated with the use of inhaled nitric oxide in neonates with congenital diaphragmatic hernia (CDH).</paragraph>
+                           </text>
+                           <effectiveTime value="20130301"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S14.2">
+                     <id root="5d4d892d-0084-47bb-9400-f376ad595ffe"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.2     Ineffective in Adult Respiratory Distress Syndrome (ARDS)</title>
+                     <text>
+                        <paragraph>In a randomized, double-blind, parallel, multicenter study, 385 patients with adult respiratory distress syndrome (ARDS) associated with pneumonia (46%), surgery (33%), multiple trauma (26%), aspiration (23%), pulmonary contusion (18%), and other causes, with PaO<sub>2</sub>/FiO<sub>2</sub> &lt;250 mm Hg despite optimal oxygenation and ventilation, received placebo (n=193) or INOmax (n=192), 5 ppm, for 4 hours to 28 days or until weaned because of improvements in oxygenation. Despite acute improvements in oxygenation, there was no effect of INOmax on the primary endpoint of days alive and off ventilator support. These results were consistent with outcome data from a smaller dose ranging study of nitric oxide (1.25 to 80 ppm). INOmax is not indicated for use in ARDS.</paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S14.3">
+                     <id root="94272273-ca72-43dc-a936-2f97a21dd14e"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.3	Ineffective in Prevention of Bronchopulmonary Dysplasia (BPD)</title>
+                     <text>
+                        <paragraph>The safety and efficacy of INOmax for the prevention of chronic lung disease [bronchopulmonary dysplasia, (BPD)] in neonates ≤ 34 weeks gestational age requiring respiratory support has been studied in three large, multi-center, double-blind, placebo-controlled clinical trials in a total of 2,149 preterm infants. Of these, 1,068 received placebo, and 1,081 received inhaled nitric oxide at doses ranging from 5-20 ppm, for treatment periods of 7-24 days duration. The primary endpoint for these studies was alive and without BPD at 36 weeks postmenstrual age (PMA). The need for supplemental oxygen at 36 weeks PMA served as a surrogate endpoint for the presence of BPD. Overall, efficacy for the prevention of bronchopulmonary dysplasia in preterm infants was not established. There were no meaningful differences between treatment groups with regard to deaths, methemoglobin levels, or adverse events commonly observed in premature infants, including intraventricular hemorrhage, patent ductus arteriosus, pulmonary hemorrhage, and retinopathy of prematurity. The use of INOmax for prevention of BPD in preterm neonates ≤ 34 weeks gestational age is not indicated.</paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S16">
+               <id root="7c2a626d-dda7-404a-a280-4dbdcc0d33a2"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>INOmax (nitric oxide) is available in the following sizes:</paragraph>
+                  <table width="100%">
+                     <col width="20%" align="left" valign="top"/>
+                     <col width="80%" align="left" valign="top"/>
+                     <tbody>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">Size D</td>
+                           <td styleCode="Rrule">Portable aluminum cylinders containing 353 liters at STP of nitric oxide gas in 800 ppm concentration in nitrogen (delivered volume 344 liters) (NDC 64693-002-01)</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">Size D</td>
+                           <td styleCode="Rrule">Portable aluminum cylinders containing 353 liters at STP of nitric oxide gas in 100 ppm concentration in nitrogen (delivered volume 344 liters) (NDC 64693-001-01)</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">Size 88</td>
+                           <td styleCode="Rrule">Aluminum cylinders containing 1963 liters at STP of nitric oxide gas in 800 ppm concentration in nitrogen (delivered volume 1918 liters) (NDC 64693-002-02)</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule Rrule">Size 88</td>
+                           <td styleCode="Rrule">Aluminum cylinders containing 1963 liters at STP of nitric oxide gas in 100 ppm concentration in nitrogen (delivered volume 1918 liters) (NDC 64693-001-02)</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </text>
+               <effectiveTime value="20130307"/>
+               <component>
+                  <section>
+                     <id root="a66a677b-ff99-43d1-a8f0-01ca69dafd13"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <title/>
+                     <text>
+                        <paragraph>Store at 25°C (77°F) with excursions permitted between 15–30°C (59–86°F) [see USP Controlled Room Temperature].</paragraph>
+                        <paragraph>All regulations concerning handling of pressure vessels must be followed.</paragraph>
+                        <paragraph>Protect the cylinders from shocks, falls, oxidizing and flammable materials, moisture, and sources of heat or ignition.</paragraph>
+                        <paragraph>The cylinders should be appropriately transported to protect from risks of shocks and falls.</paragraph>
+                     </text>
+                     <effectiveTime value="20130307"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="b661fcb2-f53a-4d38-b027-ab0fcc340d83"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Occupational Exposure</content>
+                        </paragraph>
+                        <paragraph>The exposure limit set by the Occupational Safety and Health Administration (OSHA) for nitric oxide is 25 ppm, and for NO<sub>2</sub> the limit is 5 ppm.</paragraph>
+                     </text>
+                     <effectiveTime value="20101210"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="934f2cbd-bbec-40eb-8304-9185be2de833"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>INO Therapeutics<br/>Perryville III Corporate Park<br/>53 Frontage Road, Third Floor<br/>P.O. Box 9001<br/>Hampton, NJ 08827-9001<br/> USA<br/>© 2013 INO Therapeutics</paragraph>
+               </text>
+               <effectiveTime value="20130307"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="2a154814-f236-491a-b883-9eeeb69c12b7"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">PRINCIPAL DISPLAY PANEL - 800 PPM Size 88 Cylinder</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">INOmax<sup>®</sup>
+                        <br/> nitric oxide FOR INHALATION</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">800 PPM</content>
+                  </paragraph>
+                  <table width="80%">
+                     <col width="100%" align="center" valign="middle"/>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Lrule Rrule">
+                              <content styleCode="bold">CAUTION: Federal Law Prohibits Dispensing without Prescription.</content>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>
+                     <content styleCode="bold">CAUTION:</content> HIGH PRESSURE GAS. CAN CAUSE RAPID SUFFOCATION WITHOUT WARNING. Use equipment<br/>rated for cylinder pressure. Store and use with adequate ventilation. Secure cylinder in use and storage. Close valve<br/>after each use and when empty. USE IN ACCORDANCE WITH APPROPRIATE MSDS.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">WARNING:</content> Administration of this gas mixture may be hazardous or contraindicated. For use only by or under the<br/>supervision of a licensed practitioner who is experienced in the use and administration of gas mixtures, and is familiar<br/>with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards,<br/>contraindications and side effects and the precautions to be taken.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">FIRST AID:</content> IF INHALED, remove person to fresh air. If not breathing, give artificial respiration. If breathing is<br/>difficult, give oxygen. Get medical help.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">RETURN WITH 25 PSIG.<br/>TO BE REFILLED ONLY BY A PHARMACEUTICAL FACILITY<br/>AUTHORIZED BY INO Therapeutics<br/>Manufactured Under Pharmaceutical Current Good Manufacturing Practices (cGMPs).<br/>DO NOT REMOVE THIS PRODUCT LABEL.<br/>Store at 25°C (77°F)<br/>[see USP Controlled Room Temperature].<br/>Volume 1963 Liters</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">IKARIA</content>
+                     <sup>®</sup>
+                  </paragraph>
+                  <paragraph>1060 Allendale Dr.<br/>Port Allen, LA 70767 USA<br/>For Product Inquiry 1-877-KNOW INO<br/>(566-9466)</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">UN 1956<br/>COMPRESSED GAS, N.O.S. <br/> (NITRIC OXIDE, NITROGEN) <br/> 2.2 <br/> Net Weight: 2.5 Kg</content>
+                  </paragraph>
+                  <paragraph>NDC 64693-002-02</paragraph>
+                  <paragraph>MADE IN USA</paragraph>
+                  <paragraph>Label No. SPC-LBL-0060 R: 6</paragraph>
+                  <renderMultiMedia referencedObject="MM3"/>
+               </text>
+               <effectiveTime value="20130301"/>
+               <component>
+                  <observationMedia ID="MM3">
+                     <text>Principal Display Panel - 800 PPM Size 88 Cylinder</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="inomax-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="bc8092bb-782f-405f-80f1-3a33d19c2b19"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">PRINCIPAL DISPLAY PANEL - 100 PPM Size 88 Cylinder</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">INOmax<sup>®</sup>
+                        <br/>nitric oxide FOR INHALATION</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">100 PPM</content>
+                  </paragraph>
+                  <table width="80%">
+                     <col width="100%" align="center" valign="middle"/>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Lrule Rrule">
+                              <content styleCode="bold">CAUTION: Federal Law Prohibits Dispensing without Prescription.</content>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>
+                     <content styleCode="bold">CAUTION:</content> HIGH PRESSURE GAS. CAN CAUSE RAPID SUFFOCATION WITHOUT WARNING. Use equipment<br/>rated for cylinder pressure. Store and use with adequate ventilation. Secure cylinder in use and storage. Close valve<br/>after each use and when empty. USE IN ACCORDANCE WITH APPROPRIATE MSDS.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">WARNING:</content> Administration of this gas mixture may be hazardous or contraindicated. For use only by or under the<br/>supervision of a licensed practitioner who is experienced in the use and administration of gas mixtures, and is familiar<br/>with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards,<br/>contraindications and side effects and the precautions to be taken.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">FIRST AID:</content> IF INHALED, remove person to fresh air. If not breathing, give artificial respiration. If breathing is<br/>difficult, give oxygen. Get medical help.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">RETURN WITH 25 PSIG.<br/>TO BE REFILLED ONLY BY A PHARMACEUTICAL FACILITY<br/>AUTHORIZED BY INO Therapeutics<br/>Manufactured Under Pharmaceutical Current Good Manufacturing Practices (cGMPs).<br/>DO NOT REMOVE THIS PRODUCT LABEL .<br/>Store at 25°C (77°F)<br/>[see USP Controlled Room Temperature].<br/>Volume 1963 Liters</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">IKARIA™</content>
+                  </paragraph>
+                  <paragraph>1060 Allendale Dr.<br/>Port Allen, LA 70767 USA<br/>For Product Inquiry 1-877-KNOW INO<br/>(566-9466)</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">UN 1956<br/>COMPRESSED GAS, N.O.S.<br/>(NITRIC OXIDE, NITROGEN)<br/>2.2<br/>Net Weight: 2.5 Kg</content>
+                  </paragraph>
+                  <paragraph>NDC 64693-001-02</paragraph>
+                  <paragraph>MADE IN USA</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">AIR ELIGIBLE</content>
+                  </paragraph>
+                  <paragraph>Label No. SPC-0059 V:4.0</paragraph>
+                  <renderMultiMedia referencedObject="MM4"/>
+               </text>
+               <effectiveTime value="20111219"/>
+               <component>
+                  <observationMedia ID="MM4">
+                     <text>Principal Display Panel - 100 PPM Size 88 Cylinder</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="inomax-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

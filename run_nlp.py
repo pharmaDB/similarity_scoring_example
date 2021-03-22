@@ -96,7 +96,7 @@ def pretty_print_best(label_sections_od, patent_od, similarity_od):
 if __name__ == '__main__':
 
     # OrderedDict of {section_title:section_text,...}
-    label_sections_od = read_label("data/2007-05-04.xml")
+    label_sections_od = read_label("data/label/2007-05-04.xml")
 
     # OrderedDict of {patent_num: {claim_num:claim_text,..},...}
     patent_od = OrderedDict()
@@ -107,7 +107,7 @@ if __name__ == '__main__':
     patent_files = ['8282966.xml', '8293284.xml', '8431163.xml']
     for patent_file in patent_files:
         patent_num = patent_file[:-4]
-        patent_od[patent_num] = read_patent("data/" + patent_file)
+        patent_od[patent_num] = read_patent("data/patent/" + patent_file)
         patent_od_no_dependency[patent_num] = read_patent_no_dependency(
             "data/" + patent_file)
 
