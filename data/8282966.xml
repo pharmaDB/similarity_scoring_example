@@ -1,0 +1,2677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US08282966-20121009.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20120921" date-publ="20121009">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>08282966</doc-number>
+<kind>B2</kind>
+<date>20121009</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12821020</doc-number>
+<date>20100622</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>59</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20121009</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>33</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20121009</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>21</main-group>
+<subgroup>24</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20121009</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>M</subclass>
+<main-group>16</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>N</classification-value>
+<action-date><date>20121009</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>424718</main-classification>
+<further-classification>12820024</further-classification>
+<further-classification>423405</further-classification>
+</classification-national>
+<invention-title id="d2e51">Methods of reducing the risk of occurrence of pulmonary edema in children in need of treatment with inhaled nitric oxide</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5873359</doc-number>
+<kind>A</kind>
+<name>Zapol et al.</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6063407</doc-number>
+<kind>A</kind>
+<name>Zapol et al.</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6601580</doc-number>
+<kind>B1</kind>
+<name>Bloch et al.</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>7557087</doc-number>
+<kind>B2</kind>
+<name>Rothbard et al.</name>
+<date>20090700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2004/0106954</doc-number>
+<kind>A1</kind>
+<name>Whitehurst et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2009/0018136</doc-number>
+<kind>A1</kind>
+<name>Oppenheimer et al.</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2009/0029371</doc-number>
+<kind>A1</kind>
+<name>Elliott</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2009/0149541</doc-number>
+<kind>A1</kind>
+<name>Stark et al.</name>
+<date>20090600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2009/0176772</doc-number>
+<kind>A1</kind>
+<name>Blackburn et al.</name>
+<date>20090700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>EP</country>
+<doc-number>1682672</doc-number>
+<kind>A1</kind>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>WO</country>
+<doc-number>WO2005004884</doc-number>
+<kind>A2</kind>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>WO</country>
+<doc-number>WO2006127907</doc-number>
+<kind>A2</kind>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>WO</country>
+<doc-number>WO2010019540</doc-number>
+<kind>A1</kind>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00014">
+<othercit>Beghetti et al. (Journal of Pediatrics, 1997, p. 844).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00015">
+<othercit>Macrae et al. (Intensive Care Med 2004, 30, pp. 372-380).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00016">
+<othercit>Atz et al. (Seminars in Perinatology 1997, 21(5), pp. 441-455).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00017">
+<othercit>Kinsella et al. (The Lancet 1999, 354, pp. 1061-1065).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00018">
+<othercit>The NIH (Critical Care Therapy and Respiratory Care Section; Nitric Oxide Therapy, May 2000, 13 pages).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00019">
+<othercit>Bolooki (Clinical Application of the Intra-Aortic Balloon Pump 1998, 3rd Ed. pp. 252-253).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00020">
+<othercit>Henrichsen (Journal of Pediatrics 1996, 129(1) p. 183). 2 pages.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00021">
+<othercit>(Krohn the Journal of Thoracic and Cardiovascular Surgery 1999, 117(1) pp. 195-196). 2 pages.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00022">
+<othercit>Semigran (Abstract of J Am Coll Cardiol 1994; 24: 982-988). 5 pages.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00023">
+<othercit>Hayward (Cardiovascular Research 1999; 43:628-638) 11 pages.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00024">
+<othercit>Beghetti et al. (the Journal of Pediatrics 1997 p. 844).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00025">
+<othercit>Bocchi the American Journal of Cardiology 1994, 74, pp. 70-72. 4 pages).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00026">
+<othercit>Davidson et al. (Pediatrics 1998, 101 (3) pp. 325-334).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00027">
+<othercit>The Neonatal Inhaled Nitric Oxide Study Group (The New England Journal of Medicine 1997, 336(9), pp. 597-604).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00028">
+<othercit>Macrae (Semin Neonatal 1997, 2, 49-58).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00029">
+<othercit>Miller et al. (Achives of Disease in Childhood 1994, 70, F47-F49.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00030">
+<othercit>Wheeler et al. (Pediatric Critical Care Medicine 2007, Springer, p. 278).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00031">
+<othercit>Kazerooni et al. (Cardiopulmonary Imaging 2004, Lippincott Williams &#x26; Wilkins, pp. 234-235).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00032">
+<othercit>Hurford et al. (Nitric Oxide: Biology and Pathobiology 2000 Academic Press, Chapter 56, pp. 931-945).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00033">
+<othercit>Weinberger et al. (Toxicology Sciences 2001, 59, 5-16).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00034">
+<othercit>Moss et al. (Moss and Adams' Heart Disease in Infants, Children, and Adolescents, 2007, vol. 1, p. 991 in part).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00035">
+<othercit>Bocchi et al. The American Journal of Cardiology 1994, 74, pp: 70-72. 4 pages).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00036">
+<othercit>Kazerooni et al. Cardiopulmonary Imaging 2004, Lippincott Williams &#x26; Wilkins p. 235 (2 pages).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00037">
+<othercit>&#x201c;Inhaled Nitric Oxide and Hypoxic Respiratory Failure in Infants With Congenital Diaphragmatic Hernia&#x201d;, The Neonatal Inhaled Nitric Oxide Study Group (NINOS), Pediatrics, vol. 99, No. 6, Jun. 6, 1997, pp. 838-845.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00038">
+<othercit>&#x201c;Inhaled Nitric Oxide in Full-Term and Nearly Full-Term Infants with Hypoxic Respiratory Failure&#x201d;, The Neonatal Inhaled Nitric Oxide Study Group, N Engl J Med, 1997, vol. 336, No. 9, pp. 597-605.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00039">
+<othercit>Adatia, et al, &#x201c;Inhaled Nitric Oxide and Hemodynamic Evaluation of Patients With Pulmonary Hyptertension Before Transplantation&#x201d;, Journal of the American College of Cardiology, Elsevier, New York, NY, vol. 25, No. 7, Jun. 1, 1995, p. 1663.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00040">
+<othercit>Al-Alaiyan S et al., &#x201c;Inhaled nitric oxide in persistent pulmonary hypertension of the newborn refractory to high-frequency ventilation&#x201d;, Crit Care, vol. 3, No. 1, 1999, pp. 7-10.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00041">
+<othercit>Argenziano, et al., &#x201c;Inhaled Nitric Oxide is not a Myocardial Depressant in a Porcine Model of Heart Failure&#x201d;, The Journal of Thoracic and Cardiovascular Surgery, 1998, vol. 115, pp. 700-704.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00042">
+<othercit>Atz AM et al., &#x201c;Combined Effects of Nitric Oxide and Oxygen During Acute Pulmonary Vasodilator Testing&#x201d;, Journal of the American College of Cardiology (JACC), vol. 33, No. 3, Mar. 1, 1999, pp. 813-819.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00043">
+<othercit>Barrington, et al., Inhaled Nitric Oxide for Preterm Infants: A Systematic Review, Pediatrics 2007; 120; 1088-1099, DOI: 10.1542/peds.2007-0726.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00044">
+<othercit>Barst et al., &#x201c;Nitric Oxide in Combination with Oxygen versus Either Oxygen Alone or Nitric Oxide Alone for Acute Vasodilator Testing in Children with Pulmonary Hypertemsion: A Multicenter, Randomized Study&#x201d;, INO Therapeutics/Ikaria, Baltimore Convention Center, May 3, 2009, 2 pages, Abstract, downloaded Jul. 2, 2009 from http://127.0.0.1:9080/PASO9A1/view.y?nu=PASO9L1<sub>&#x2014;</sub>1507.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00045">
+<othercit>Bland, &#x201c;Pulmonary vascular dysfuction in preterm lambs with chronic lung disease&#x201d;, Am J Physical Lung Cell Mol Physiol 285: L76-L85, 2003.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00046">
+<othercit>Bocchi EA et al.,&#x201c;Inhaled Nitric Oxide Leading to Pulmonary Edema in Stable Severe Heart Failure&#x201d;, The American Journal of Cardiology, vol. 74, Jul. 1, 1994, pp. 70-72.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00047">
+<othercit>Budts W et al., &#x201c;Residual pulmonary vasoreactivity to inhaled nitric oxide in patients with severe obstructive pulmonary hypertension and Eisenmenger syndrome&#x201d;, Heart, vol. 86, 2001, pp. 553-558.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00048">
+<othercit>Clark RH et al., &#x201c;Low-Dose Nitric Oxide Therapy for Persistent Pulmonary Hypertension: 1-Year Follow-up&#x201d;, Journal of Perinatology, (2003) 23:300-303.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00049">
+<othercit>Clark, et al., Low-Dose Nitric Oxide Therapy for Persistent Pulmonary Hypertension: 1-Year Follow-up, Journal of Perinatology 2003; 23: 300-303.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00050">
+<othercit>Cockrill BA et al., &#x201c;Comparison of the Effects of Nitric Oxide, Nitroprusside, and Nifedipine on Hemodynamics and Right Ventricular Contractibility in Patients With Chronic Pulmonary Hypertension&#x201d;, Chest, vol. 119, No. 1, Jan. 2001, pp. 128-136.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00051">
+<othercit>Cornfield DN et al., &#x201c;Randomized, Controlled Trial of Low-dose Inhaled Nitric Oxide in the Treatment of Term and Near-term Infants With Respiratory Failure and Pulmonary Hypertension&#x201d;, Pediatrics, vol. 104, No. 5, pp. 1089-1094 (Nov. 5, 1999).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00052">
+<othercit>Cujec, et al., &#x201c;Inhaled Nitric Oxide Reduction in Systolic Pulmonary Artery Pressure is Less in Patients with Decreased Left Ventricular Ejection Fraction&#x201d;, Canadian Journal of Cardiology, 1997, vol. 13 (9), pp. 816-824.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00053">
+<othercit>Davidson D et al., &#x201c;Inhaled nitric oxide for the early treatment of persistent pulmonary hypertension of the term newborn: a randomized, double-masked, placebo-controlled, dose-response, multicenter study&#x201d;, Pediatrics, Mar. 1998; 101(3 Pt 1):325-34.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00054">
+<othercit>Davidson D et al., &#x201c;Safety of Withdrawing Inhaled Nitric Oxide Therapy in Persistent Pulmonary Hypertension of the Newborn&#x201d;, Pediatrics, vol. 104, No. 2, Aug. 2, 1999, pp. 231-236.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00055">
+<othercit>Day RW et al., &#x201c;Pulmonary Vasodilatory Effects of 12 and 60 Parts Per Million Inhaled Nitric Oxide in Children with Ventricular Septal Defect&#x201d;, The American Journal of Cardiology, vol. 75, Jan. 15, 1995, pp. 196-198.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00056">
+<othercit>Dickstein, et al., &#x201c;A Theoretic Analysis of the Effect of Pulmonary Vasodilation on Pulmonary Venous Pressure: Implications for Inhaled Nitric Oxide Therapy&#x201d;, The Journal of Heart and Lung Transplant Jul. 1996, pp. 715-721.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00057">
+<othercit>Ivy, et al., &#x201c;Dipyridamole attenuates rebound pulmonary hypertension after inhaled nitric oxide withdrawal in postoperative congenital heart disease&#x201d;, J Thorac Cardiovasc Surg 1998; 115:875-882.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00058">
+<othercit>Dorling, &#x201c;Neurodevelopmental outcome following Nitric Oxide Therapy for Persistent Pulmonary Hypertension in Term Newborn Infants&#x201d;, Neonatal Intensive Care Unit, Leicester Royal Infirmary, Aug. 8, 2003, modified Nov. 12, 2003, 3 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00059">
+<othercit>Ferguson, et al., &#x201c;Inhaled nitric oxide for hypoxemic respiratory failure: Passing bad gas?&#x201d;, Canadian Medical Association Journal, Jan. 11, 2000; 162 (1), pp. 85-86.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00060">
+<othercit>Field, Neonatal Ventilation With Inhaled Nitric Oxide Versus Ventilatory Support Without Inhaled Nitric Oxide for Preterm Infants With Severe Respiratory Failure: The INNOVO Multicentre Radomised Controlled Trial (ISRCTN 17821339), &#x201c;Pediatrics&#x201d; Journal 2005:115:926-936, DOI: 10.1542/peds.2004-1209.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00061">
+<othercit>Findlay, &#x201c;Paradoxical Haemodynamic Response to Inhaled Nitric Oxide&#x201d;, International Journal of Intensive Care 1998 GB, vol. 5, No. 4, 1998, pp. 134-139.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00062">
+<othercit>Finer NN et al., &#x201c;Randomized, Prospective Study of Low-Dose Versus High-Dose Inhaled Nitric Oxide in the Neonate With Hypoxic Respiratory Failure&#x201d;, Pediatrics, vol. 108, No. 4, Oct. 4, 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00063">
+<othercit>Greenough, &#x201c;Inhaled nitric oxide in the neonatal period&#x201d;, Expert Opinion on Investigational Drugs, 2000 Ashley Publications Ltd, 1354-3784, 9 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00064">
+<othercit>Hayward CS et al., &#x201c;Effect of Inhaled Nitric Oxide on Normal Human Left Ventricular Function,&#x201d; JACC, vol. 30, No. 1, Jul. 1997, pp. 49-56.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00065">
+<othercit>Hayward CS et al., &#x201c;Inhaled Nitric Oxide in Cardiac Failure: Vascular Versus Ventricular Effects&#x201d;, Journal of Cardiovascular Pharmacology, vol. 27, 1996, pp. 80-85, Abstract Only.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00066">
+<othercit>Hayward et al., &#x201c;Left Ventricular Chamber Function During Inhaled Nitric Oxide in Patients with Dilated Cardiomyopathy&#x201d;, J. Cardiovascular Pharmacology, vol. 34, Iss. 5, Nov. 1999, pp. 749-754, Abstract.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00067">
+<othercit>Henrichsen, et al., &#x201c;Inhaled Oxide Can Cause Severe Systemic Hypotension&#x201d;, Journal of Pediatrics, Mosby-Year Book, St. Louis, MO, vol. 129, No. 1, Jul. 1996, p. 183.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00068">
+<othercit>Inglessis I et al., &#x201c;Does inhaled nitric oxide support the hemodynamic of spontaneous breathing patients with cardiogenic shock related to right ventricular myocardial infarction? Reply&#x201d;, JACC, vol. 45, No. 6, Mar. 15, 2005, pp. 965-966.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00069">
+<othercit>Inglessis I et al., &#x201c;Hemodynamic effects of inhaled nitric oxide in right ventricular myocardial infarction and cardiogenic shock&#x201d;, JACC, vol. 44, No. 4, Aug. 18, 2004, pp. 793-798.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00070">
+<othercit>&#x201c;Inhaled Nitric Oxide (INO) in Hypoxic Respiratory Failure&#x201d;, Study description, study sponsored by INO Therapeutics, ClinicalTrials.gov Identifier NCT00922532, Jun. 16, 2009, 4 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00071">
+<othercit>Krasuski RA et al., &#x201c;Inhaled Nitric Oxide Selectively Dilates Pulmonary Vasculature in Adult Patients With Pulmonary Hypertension, Irrespective of Etiology&#x201d;, Journal of the American College of Cardiology (JACC), vol. 36, No. 7, Dec. 2000, pp. 2204-2211.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00072">
+<othercit>Lipshultz, &#x201c;Ventricular dysfunction clinical research in infants, children and adolescents&#x201d;, Progress in Pediatric Cardiology 12 (2000) 1-28.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00073">
+<othercit>Loh, et al., &#x201c;Cardiovascular Effects of Inhaled Nitric Oxide in Patients with Left Ventricular Dsyfunction,&#x201d; Circulation, Aug. 7, 1994, 90, pp. 2780-2785.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00074">
+<othercit>Magee et al., &#x201c;Comparison of Supplemental Oxygen and Nitric Oxide for Inhalation plus oxygen in the evaluation of the reactivity of the pulmonary vasculature during Acute Pulmonary Vasodilator Testing&#x201d;, Oct. 1-31, 2006, Reserach project description, 1 page, http://www.rbht.nhs.uldresearch.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00075">
+<othercit>Matsumoto A et al., &#x201c;Effect of Inhaled Nitric Oxide on Gas Exchange in Patients with Congestive Heart Failure&#x201d;, Annals of Internal Medicine, vol. 130, No. 1, 1999:40-44.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00076">
+<othercit>Morales-Blanhir J et al., &#x201c;Clinical value of vasodilator test with inhaled nitric oxide for predicting long-term response to oral vasodilators in pulmonary hypertension&#x201d;, Respiratory Medicine, vol. 98, 2004, pp. 225-234.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00077">
+<othercit>Murray, et al., &#x201c;Nitric Oxide and Septic Vascular Dysfunction&#x201d;, Anesth Analg 2000; 90:89-101.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00078">
+<othercit>Natori S et al., &#x201c;Inhaled Nitric Oxide Modifies Left Ventricular Diastolic Stress in the Presence of Vasoactive Agents in Heart Failure&#x201d;, Am J Respir Crit Care Med, vol. 167, pp. 895-901, 2003.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00079">
+<othercit>Ovodov, et al., &#x201c;Nitric Oxide: Clinical Applications&#x201d;, Seminars in Aneshesia, Saunders, CO, New York NY, vol. 19, No. 2, Jun. 1, 2000, pp. 88-97.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00080">
+<othercit>Pepke-Zaba J et al., &#x201c;Inhaled nitric oxide as a cause of selective pulmonary vasodilation in pulmonary hypertension&#x201d;, The Lancet, vol. 338, Nov. 9, 1991, pp. 1173-1174.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00081">
+<othercit>Ricciardi MJ et al., Inhaled Nitric Oxide in Primary Pulmonary Hypertension: A Safe and Effective Agent for Predicting Response to Nifedipine, Journal of the American College of Cardiology (JACC,) vol. 32, No. 4, Oct. 1998, pp. 1068-1073.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00082">
+<othercit>Roberts, Inhaled Nitric Oxide and Persistent Pulmonary Hypertension of the Newborn, The New England Journal of Medicine, Feb. 27, 1997, vol. 336, No. 9, pp. 605-610.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00083">
+<othercit>Rosales, et al., &#x201c;Hemodynamic Effects Observed with Inhaled Nitric Oxide After Surgical Repair of Total Anamolous Pulmonary Venous Return&#x201d;, Pediatric Cardiology, 1999, vol. 20, pp. 224-226.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00084">
+<othercit>Sadiq HF et al., &#x201c;Inhaled Nitric Oxide in the Treatment of Moderate Persistent Pulmonary Hypertension of the Newborn: A Randomized Controlled, Multicenter Trial&#x201d;, Journal of Perinatology, 2003; 23:98-103.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00085">
+<othercit>Sehgal A et al., &#x201c;Experience with Inhaled Nitric Oxide Therapy in Hypoxic Respiratory Failure of the Newborn&#x201d;, Indian J Chest Dis Allied Sci, 2005; 47:245-49.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00086">
+<othercit>Semigran et al., &#x201c;Hemodynamic Effects of Inhaled Nitric Oxide in Heart Failure&#x201d;, Journal of American College of Cardiology (JACC), vol. 24, No. 4, Oct. 1994, pp. 982-988.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00087">
+<othercit>Singh, et al., &#x201c;Nitric Oxide, the biological mediator of the decade: fact of fiction?&#x201d;, Eur Respir J 1997; 10: 699-707.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00088">
+<othercit>Smyth RL, &#x201c;Inhaled nitric oxide treatment for preterm infants with hypoxic respiratory failure&#x201d;, Thorax, 2000;55(Suppl 1):S51-S55.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00089">
+<othercit>Steinhorn, RH, &#x201c;Pulmonary Hypertension, Persistent-Newborn&#x201d;, Updated Apr. 19, 2007, http://emedicine.medscape.com/article/898437-overview.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00090">
+<othercit>Steinhorn, et al., &#x201c;Inhaled nitric oxide enhances oxygenation but not survival in infants with alveolar capillary dysplasia&#x201d;, The Journal of Pediatrics, Mar. 1997, pp. 417-422.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00091">
+<othercit>&#x201c;Use of Inhaled Nitric Oxide&#x201d;, American Academy of Pediatrics&#x2014;Committee on Fetus and Newborn, Pediatrics vol. 106, No. 2, Aug. 2000, pp. 344-345.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00092">
+<othercit>Watson, et al., &#x201c;Clinical and Economic Effects of iNO in Premature Newborns With Respiratory Failure at 1 Year&#x201d;, Pediatrics 2009; 124; 1333-1343.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00093">
+<othercit>Weinberger B et al., &#x201c;The Toxicology of Inhaled Nitric Oxide&#x201d;, Toxicological Sciences, 59, pp. 5-16 (2001).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00094">
+<othercit>Weinberger, et al., &#x201c;Nitric Oxide in the lung: therapeutic and cellular mechanisms of action&#x201d;, Pharmacology &#x26; Therapeutics 84 (1999) 401-411.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00095">
+<othercit>Wessel DL et al., &#x201c;Improved Oxygenation in a Randomized Trial of Inhaled Nitric Oxide for Persistent Pulmonary Hypertension of the Newborn&#x201d;, Pediatrics, vol. 100, No. 5, Nov. 5, 1997.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00096">
+<othercit>AU 2009202685 Office Action dated Jun. 17, 2010 (3 pages).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00097">
+<othercit>AU 2009202685 Office Action Response dated Jul. 29, 2010, 19 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00098">
+<othercit>Branson, Inhaled Nitric Oxide in Adults, The Science Journal of the American Association for Respiratory Care 1997 Open Forum Abstracts, Dec. 7, 1997, 2 pages, retrieved at &#x3c;&#x3c;http://www.rcjournal.com/abstracts/1997/?id=A00000929&#x3e;&#x3e; on Dec. 22, 2010.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00099">
+<othercit>Braunwald, Heart Failure, chapter 233 of Harrison's Principles of Internal Medicine, 14th Edition, 1998, pp. 1287-1291 &#x26; 1360.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00100">
+<othercit>Clark, et al., Low-Dose Nitric Oxide Therapy for Persistent Pulmonary Hypertension of the Newborn, New England Journal of Medicine, vol. 342, No. 7, pp. 469-474.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00101">
+<othercit>&#x201c;Comparison of Supplemental Oxygen and Nitric Oxide for Inhalation in the Evaluation of the Reactivity of the Pulmonary Vasculature During Acute Pulmonary Vasodilator Testing,&#x201d; ClinicalTrials.gov archive, updated Jan. 12, 2009, 4 pages, retrieved at &#x3c;&#x3c;http://clinicaltrials.gov/archive/NCT00626028/2009<sub>&#x2014;</sub>01<sub>&#x2014;</sub>12 Jan. 12, 2009&#x3e;&#x3e;.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00102">
+<othercit>Cox, et al., Factors Associated With Establishing a Causal Diagnosis for Chidren With Cardiology, Pediatrics, vol. 118, No. 4, Oct. 4, 2006, pp. 1519-1531, published online Oct. 2, 2006.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00103">
+<othercit>Cuthbertson et al., &#x201c;UK guidelines for the use of inhaled nitric oxide therapy in adults ICUs*&#x201d;, Intensive Care Med (1997), 23, Springer-Verlag, 1997, pp. 1212-1218.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00104">
+<othercit>Dorland, &#x201c;The American Illustrated Medical Dictionary&#x201d;, 7th Edition, W.B. Saunders Company, 1914, pp. 113.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00105">
+<othercit>EP 09251949 Office Action dated Oct. 11, 2010, 5 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00106">
+<othercit>Guideline for Industry; Clinical Safety Data Management: Definitions and Standards for Expedited Reporting, Mar. 1995, 17 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00107">
+<othercit>Headrick, Hemodynamic monitoring of the critically ill neonate, J Perinat Neonatal Nurs 1992; 5(4): 58-67.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00108">
+<othercit>INO Therapeutics, LLC, &#x201c;INOflo for Inhalation 800ppm&#x201d;, package leaflet, 2010, 2.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00109">
+<othercit>JP 2009157623 Office Action dated Feb. 23, 2010, 3 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00110">
+<othercit>JP 2009157623 Office Action dated Jul. 30, 2010, 6 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00111">
+<othercit>JP 2009157623 Office Action response filed Jun. 18, 2010, 37 pages (no translation).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00112">
+<othercit>JP 2009157623 request for accelerated exam filed Jan. 15, 2010 (60 pages).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00113">
+<othercit>JP 2009157623 response filed Nov. 30, 2010, 58 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00114">
+<othercit>Letter of Acceptance for AU 2010202422, dated Oct. 7, 2010.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00115">
+<othercit>Letter of acceptance of AU application 2009202685, dated Aug. 10, 2010, 3 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00116">
+<othercit>Lipschultz, The incidence of pediatric cardiomyopathy in two regions of the United States, New England Journal of Medicine, Apr. 24, 2003. &#x3c;&#x3c;http://www.nejm.org/doi/full/10.1056/NEJMoa021715&#x3e;&#x3e;.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00117">
+<othercit>NIH Clinical Center Services, retrieved at &#x3c;http://www.cc.nih.gov/ccmd/clinical<sub>&#x2014;</sub>services.html&#x3e;&#x3e; on Aug. 18, 2010.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00118">
+<othercit>Office Action for AU 2010202422 dated Jul. 9, 2010, 3 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00119">
+<othercit>Office Action from AU 2009202685 dtd Mar. 15, 2010.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00120">
+<othercit>Office Action from AU 2010206032 dated Aug. 16, 2010 (3 pages).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00121">
+<othercit>Office Action Response for AU 2009202685 to Mar. 15, 2010 OA, filed Jun. 8, 2010 (16 pages).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00122">
+<othercit>Office Action Response for JP2007157623 filed on Nov. 12, 2009 (no English translation).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00123">
+<othercit>Office Action Response to AU 2010202422 OA dated Jul. 9, 2010, response filed Sep. 1, 2010.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00124">
+<othercit>PCT/US2010/038652 Search Report dated Jul. 29, 2010, 16 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00125">
+<othercit>Response filed Aug. 18, 2010 to EP Search Report dated May 10, 2010 for EP09251949.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00126">
+<othercit>Search Report from EP 09251949 dated May 10, 2010.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00127">
+<othercit>Towbin, et al., Incidence, Causes, and Outcomes of Dilated Cardiomyopathy in Children, JAMA, Oct. 18, 2006&#x2014;vol. 296, No. 15, pp. 1867-1876.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00128">
+<othercit>Yoshida, Kiyoshi, &#x201c;Well-illustrated Diagnostics and Treatment of Heart Failure&#x201d; Professor of Kawasaki Medical University, cardiovascular internal medicine Circulation Up-to-Date vol. 2, No. 4, 2007(343), pp. 23-28.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00129">
+<othercit>Behera, et al., Nesiritide Improves Hemodynamics in Children with Dilated Cardiomyopathy: A Pilot Study, Pediatr Cardiol (2009) 30:26-34.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00130">
+<othercit>Bhagavan, et al., Potential role of ubiquinone (coenzyme Q10) in pediatric cardiomyopathy, Clinical Nutrition (2005) 24, 331-338, pp. 331-338.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00131">
+<othercit>Bublik, et al., Pediatric cardiomyopathy as a chronic disease: A perspective on comprehensive care programs, Progress in Pediatric Cardiology 25 (2008) 103-111.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00132">
+<othercit>Cox, et al., Factors Associated with Establishing a Causal Diagnosis for Children with Cardiomyopathy, Pediatrics vol. 118, No. 4, Oct. 2006, pp. 1519-1531.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00133">
+<othercit>Dermatological Cryosurgery in Primary Care with Dimethyl Ether Propane Spray in Comparison with Liquid Nitrogen, Martinez, et al., Atnecion Primaria, vol. 18, No. 5, (211, 216), Sep. 30, 1996.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00134">
+<othercit>Dronedarone is Less Effective, But Safer Than Amiodarone in Atrial Fibrillation, Oct. 27, 2009, p. 3, &#x3c;&#x3c;http://www.npci.org.uk/blog/?p=778&#x3e;&#x3e;.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00135">
+<othercit>Early Inhaled Nitric Oxide Therapy in Term and Near Term Infants with Respiratory Failure, from ClinicalTrials.gov archive, NCT00005773, Jun. 23, 2005.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00136">
+<othercit>Ehrenkranz RA, &#x201c;Inhaled Nitric Oxide in Full-Term and Nearly Full-Term Infants with Hypoxic Respiratory Failure&#x201d;, The Neonatal Inhaled Nitric Oxide Study Group, N Engl J Med, 1997, vol. 336, No. 9, pp. 597-605.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00137">
+<othercit>Elbl, et al., Long-term serial echocardiographic examination of late anthracycline cardiotoxicity and its prevention by dexrazoxane in paediatric patients, Eur J Pediatr (2005) 164: 678-684.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00138">
+<othercit>The Encarta Webster's Dictionary of the English Language (2004) is the second edition of the Encarta World Dictionary, published 1999, &#x3c;&#x3c;http://encarta.msn.com/encnet/features/dictionary/dictionaryhome.aspx&#x3e;&#x3e;; used to look up the definitions of &#x201c;precaution&#x201d; and &#x201c;exclusion&#x201d;.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00139">
+<othercit>Green, &#x201c;Patent Ductus Ateriosus Demonstrating Shunting of Blood&#x201d;, Figure from presentation given Jan. 10, 2011, pp. 1.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00140">
+<othercit>Harrison's Principles of Internal Medicine, Fauci, et al., p. 1287-1291 and 1360, 12th edition, McGraw Hill, 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00141">
+<othercit>Huddleston, Indications for heart transplantation in children, Progress in Pediatric Cardiology 26 (2009) 3-9.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00142">
+<othercit>Inhaled Nitric Oxide by Oxygen Hood in Neonates, from ClinicalTrials.gov, NCT00732537, Aug. 8, 2008.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00143">
+<othercit>Inhaled Nitric Oxide in Neonates with Elevated A-a DO2 Gradients Not Requiring Mechanical Ventilation, from ClinicalTrials.gov archive, NCT00041548, Jun. 23, 2005, 2 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00144">
+<othercit>James, et al., Treatment of heart failure in children, Current Paediatrics (2005) 15, 539-548.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00145">
+<othercit>JP 2009-157623 Office Action dated Feb. 15, 2011, 3 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00146">
+<othercit>Lavigne, et al., Cardiovascular Outcomes of Pediatric Seroreverters Perinatally Exposed to HAART, Cardiovascular Toxicology (2004) 04 187-197.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00147">
+<othercit>Lipschultz, The effect of dexrazoxane on myocardial injury in doxorubicin-treated children with acute lymphoblastic leukemia, New England Journal of Medicine 2004; 351:145-153.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00148">
+<othercit>Lipshultz, et al., Cardiovascular status of infants and children of women infected with HIV-1 (P2C2 HIV): a cohort study, The Lancet, vol. 360, Aug. 3, 2002, pp. 368-373.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00149">
+<othercit>Lipshultz, et al., Cardiovascular Trials in Long-Term Survivors of Childhood Cancer, Journal of Clinical Oncology, vol. 22, No. 5, Mar. 1, 2004, pp. 769-773.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00150">
+<othercit>Lipshultz, Chronic Progressive Cardiac Dysfuction Years After Doxorubicin Therapy for Childhood Acute Lymphoblastic Leukemia, Journal of Clinical Oncology, vol. 23, No. 12, Apr. 20, 2005. 8 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00151">
+<othercit>Lipshultz, Clinical research directions in pediatric cardiology, Current Opinion in Pediatrics 2009, 21:585-593.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00152">
+<othercit>Lipshultz, Establishing norms for echocardiographic measurement of cardiovascular structures and function in children, J Appl Physiol 99: 386-388, 2005.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00153">
+<othercit>Lipshultz, Frequency of clinically unsuspected myocardial injury at a children's hospital, American Heart Journal, vol. 151, No. 4, pp. 916-922.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00154">
+<othercit>Lipshultz, et al., Long-Term Enalapril Therapy for Left Ventricular Dysfunction in Doxorubicin-Treated Survivors of Childhood Cancer, Journal of Clinical Oncology, vol. 20, No. 23 Dec. 1, 2002; pp. 4517-4522.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00155">
+<othercit>Madriago, Heart Failure in Infants and Children, Pediatrics in Review, 2010; 31:4-12.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00156">
+<othercit>Miller, et al., Nutrition in Pediatric Cardiomyopathy, Prog Pediatr Cardiol, Nov. 2007; 24(1): 59-71.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00157">
+<othercit>Mone, Effects of Environmental Exposures on the Cardiovascular System: Prenatal Period Through Adolescence, Pediatrics vol. 113, No. 4, Apr. 2004, pp. 1058-1069.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00158">
+<othercit>NIH Clinical Center, Department Policy and Procedure Manual for the Critical Care Therapy and Respiratory Care Section; Nitric Oxide Therapy, 2000, sections 3.1-3.1.2 &#x26; 5.2.3.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00159">
+<othercit>Notification of Reason for Rejection, mailed Jul. 30, 2010, from Japanese Patent Application No. 2009-157623.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00160">
+<othercit>Japanese Office Action mailed Feb. 15, 2011 for Japanese Patent Application No. 2009-157623, a counterpart foreign application for U.S. Appl. No. 12/494,598.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00161">
+<othercit>Pazopanib Plus Lapatinib Compared to Lapatinib Alone in Subjects With Inflammatory Breast Cancer, Apr. 22, 2010, p. 4, ClinicalTrials.gov, &#x3c;&#x3c;http://clinicaltrials.gov/ct2/show/NCT00558103&#x3e;&#x3e;.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00162">
+<othercit>Ratnasamy, et al., Associations between neurohormonal and inflammatory activation and heart failure in children, American Heart Journal, Mar. 2008, pp. 527-533.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00163">
+<othercit>NIY Clinical Center 2 Critical Care Medicine Department Sample Rotations, Updated Jan. 2007.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00164">
+<othercit>Sibutramine-metformin Combination vs. Sibutramine and Metformin Monotherapy in Obese Patients, Jul. 15, 2009, p. 3, ClinicalTrials.gov, &#x3c;&#x3c;http://clinicaltrials.gov/ct2/showNCT00941382&#x3e;&#x3e;.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00165">
+<othercit>Somarriba, et al., Exercise rehabilitation in pediatric cardiomyopathy, Progress in Pediatric Cardiology 25 (2008) 91-102.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00166">
+<othercit>Steinhorn, Pulmonary Hypertension, Persistent-Newborn, from emedicine from WebMD, article last updated on Apr. 19, 2007, 15 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00167">
+<othercit>Strauss, et al., Pediatric Cardiomyopathy&#x2014;A Long Way to Go, The New England Journal of Medicine, 348; 17, Apr. 24, 2003, pp. 1703-1705.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00168">
+<othercit>Study of Comparative Effects of Oral Clonidine vs. Oral Diazepam Pre-Medication on the Extent and Duration of Sensory Blockade in Patients Undergoing Vaginal Hysterectomy Under Spinal Anaesthesia, Toshniwal, et al., Interenet Journal of Anesthesiology, 2009, &#x3c;&#x3c;http://www.britannica.com/bps/additionalcontent/18/41575551/Study-of-Comparative-Effects-Oral-Clonidine-vs-Oral-Diazepam-Pre-Medication-on-the-Extent-and-Duration-of-Sensory-Blockade-in-Patients-Undergoing-Vaginal-Hysterectomy-Under-Spinal-Anaesthesia&#x3e;&#x3e;.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00169">
+<othercit>The Effects of Nitric Oxide for Inhalation on the Development of Chronic Lung Disease in Pre-Term Infants, from ClinicalTrials.gov archive, NCT00551642, Oct. 30, 2007, 3 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00170">
+<othercit>van Dalen, Treatment for Asymptomatic Anthracycline-Induced Cardiac Dysfunction in Childhood Cancer Survivors: The Need for Evidence, Journal of Clinical Oncology, vol. 21, No. 17, Sep. 11, 2003, pp. 3375-3379.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00171">
+<othercit>Wilkinson, et al., Epidemiological and outcomes research in children with pediatric cardiomyopathy; discussions from the international workshop on primary and idiopathic cardiomyopathies in children, Progress in Pediatric Cardiology 25 (2008) 23-25.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00172">
+<othercit>Azeka, et al., &#x201c;Effects of Low Doses of Inhaled Nitric Oxide Combined with Oxygen for the Evaluation of Pulmonary Vascular Reactivity in Patients with Pulmonary Hypertension,&#x201d; Pediatric Cardiol, vol. 23, pp. 20-26 (2002).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00173">
+<othercit>Barst et al., &#x201c;Vasodilator Testing with Nitric Oxide and/or Oxygen in Pediatric Pulmonary Hypertension,&#x201d; Pediatr. Cardiol., vol. 31, pp. 598-606 (2010).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00174">
+<othercit>Beghetti et al., &#x201c;Inhaled nitric oxide and congenital cardiac disease,&#x201d; Cardiol. Young, vol. 11, pp. 142-152 (2001).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00175">
+<othercit>Bichel et al., &#x201c;Successful weaning from cardiopulmonary bypass after cardiac surgery using inhaled nitric oxide,&#x201d; Pediatric Anaesthesia, vol. 7, pp. 335-339 (1997).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00176">
+<othercit>Bin-Nun et al., &#x201c;Role of iNO in the modulation of pulmonary vascular resistance,&#x201d; Journal of Perinatology, vol. 28, pp. S84-S92 (2008).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00177">
+<othercit>Dickstein et al., &#x201c;A theoretic analysis of the effect of pulmonary vasodilation on pulmonary venous pressure: Implications for inhaled nitric oxide therapy,&#x201d; J Heart Lung Transplant, vol. 15, pp. 715-721 (1996).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00178">
+<othercit>Haddad et al., &#x201c;Use of inhaled nitric oxide perioperatively and in intensive care patients,&#x201d; Anesthesiology, vol. 92, pp. 1821-1825 (2000).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00179">
+<othercit>Hare et al., &#x201c;Influence of Inhaled Nitric Oxide on Systemic Flow and Ventricular Filling Pressure in Patients Receiving Mechanical Circulatory Assistance,&#x201d; Circulation, vol. 95, pp. 2250-2253 (1997).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00180">
+<othercit>Hayward et al., &#x201c;Inhaled Nitric Oxide in Cardiac Failure: Vascular Versus Ventricular Effects,&#x201d; Journal of Cardiovascular Pharmacology, vol. 27, pp. 80-85 (1996).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00181">
+<othercit>Kieler-Jensen et al., &#x201c;Inhaled nitric oxide in the evaluation of heart transplant candidates with elevated pulmonary vascular resistance,&#x201d; J Heart Lung Transplant, vol. 13, pp. 366-375 (1994).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00182">
+<othercit>Kulik, &#x201c;Inhaled nitric oxide in the management of congenital heart disease,&#x201d; Current Opinion in Cardiology, vol. 11, pp. 75-80 (1996).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00183">
+<othercit>Madriago et al., &#x201c;Heart Failure in Infants and Children,&#x201d; Pediatrics in Review, vol. 31, pp. 4-12 (2010).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00184">
+<othercit>Semigran et al., &#x201c;Hemodynamic effects of inhaled nitric oxide in heart failure,&#x201d; J Am Col Cardiol, vol. 24, pp. 982-988 (1994).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00185">
+<othercit>Steudel et al., &#x201c;Inhaled nitric oxide,&#x201d; Anesthesiology, vol. 91, pp. 1090-1121 (1999).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00186">
+<othercit>Wessel et al., &#x201c;Managing low cardiac output syndrome after congenital heart surgery,&#x201d; Crit. Care Med., vol. 29(10) pp. S220-S230 (2001).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00187">
+<othercit>Office Action in U.S. Appl. No. 12/821,041, mailed Feb. 10, 2012, 34 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00188">
+<othercit>Fish &#x26; Richardson P.C., Supplemental Amendment and Remarks in U.S. Appl. No. 12/821,041, filed May 11, 2012 (32 pages).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00189">
+<othercit>European Patent Office minutes of oral proceedings in EP 09 251 949.5, with allowable claims (7 pages), dated May, 23, 2012.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00190">
+<othercit>Barst et al., &#x201c;Vasodilator Testing with Nitric Oxide and/or Oxygen in Pediatric Pulmonary Hypertension,&#x201d; Received: Sep. 14, 2009 / Accepted: Jan. 19, 2010 Springer Science + Business Media, LLC, 2010, 9 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00191">
+<othercit>Beggs et al., &#x201c;Cardiac Failure in Children,&#x201d; 17th Expert Committee on the Selection and Use of Essential Medicines, Geneva, Mar. 2009, 31 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00192">
+<othercit>Canadian Office Action mailed May 31, 2011 for Canadian patent application No. 2671029, a counterpart foreign application of U.S. Appl. No. 12/494,598.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00193">
+<othercit>UTMB Respiratory Care Services, &#x201c;Delivery of Inhaled Nitric Oxide Therapy through an Adult or Pediatric Nasal Cannula,&#x201d; (4 pages) Jul. 2003.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00194">
+<othercit>Douwes et al., &#x201c;The Maze of Vasodilator Response Criteria,&#x201d; Published online: Nov. 26, 2010, Pediatr Cardiol, (2011) 32: pp. 245-246.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00195">
+<othercit>Fraisse et al., &#x201c;Acute pulmonary hypertension in infants and children: cGMP-related drugs,&#x201d; Pediatric Crit Care Med 2010, vol. 11, No. 2 (Suppl.), 4 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00196">
+<othercit>Fraisse et al., &#x201c;Doppler echocardiographic predictors of outcome in newborns with persistent pulmonary hypertension,&#x201d; Cardiol. Young, vol. 14, pp. 277-283, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00197">
+<othercit>Ichinose et al., &#x201c;Inhaled Nitric Oxide, A Selective Pulmonary Vasodilator: Current Uses and Therapeutic Potential,&#x201d; Circulation, vol. 109, pp. 3106-3111, Feb. 11, 2011.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00198">
+<othercit>INOmax (nitric oxide) for inhalation 100 and 800 ppm (parts per million), drug label insert, 2007, 2 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00199">
+<othercit>Kay et al., &#x201c;Congestive heart failure in pediatric patients,&#x201d; From the Department of Pediatrics, Duke University Medical Center, 2001, by Mosby, Inc., 6 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00200">
+<othercit>Konduri et al., &#x201c;A Randomized Trial of Early Versus Standard Inhaled Nitric Oxide Therapy in Term and Near-Term Newborn Infants With Hypoxic Respiratory Failure,&#x201d; Pediatrics, vol. 113, pp. 559-564, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00201">
+<othercit>Malloy, &#x201c;Nitric Oxide Weaning, RT: for Decision Makers in Respiratory Care,&#x201d; http://rtmagazine.com/issues/articles/2000-12<sub>&#x2014;</sub>05.asp, 3 pages, Dec. 2000.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00202">
+<othercit>Rosenberg, &#x201c;Inhaled nitric oxide in the premature infant with severe hypoxemic respiratory failure: A time for caution,&#x201d; The Journal of Pediatrics, vol. 133, pp. 720-722, Dec. 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00203">
+<othercit>Advances in Pulmonary Hypertension, vol. 7(4), pp. 1-418, Winter 2008-2009 (entire issue).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00204">
+<othercit>Non-final Office Action in U.S. Appl. No. 12/820,866, mailed Jun. 8, 2011, 33 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00205">
+<othercit>Lee &#x26; Hayes, Amendment in Reply to Office Action in U.S. Appl. No. 12/820,866, mailed Jun. 8, 2011, filed Jul. 8, 2011, 105 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00206">
+<othercit>Final Office Action in U.S. Appl. No. 12/820,866, mailed Aug. 24, 2011, 27 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00207">
+<othercit>Fish &#x26; Richardson P.C., Brief on Appeal in U.S. Appl. No. 12/820,866, filed Oct. 4, 2011, 211 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00208">
+<othercit>Examiner Answer in U.S. Appl. No. 12/820,866, mailed Nov. 1, 2011, 27 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00209">
+<othercit>Fish &#x26; Richardson P.C., Reply Brief in U.S. Appl. No. 12/820,866, filed Dec. 16, 2011, 21 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00210">
+<othercit>Fish &#x26; Richardson P.C., Supplement to the Reply Brief in U.S. Appl. No. 12/820,866, filed Jan. 3, 2012, 3 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00211">
+<othercit>Non-Final Office Action for U.S. Appl. No. 12/820,980, mailed Jun. 10, 2011, 30 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00212">
+<othercit>Lee &#x26; Hayes, Amendment in Reply to Office Action in U.S. Appl. No. 12/820,980, mailed Jun. 10, 2011, filed Jul. 11, 2011, 99 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00213">
+<othercit>Final Office Action in U.S. Appl. No. 12/820,980, mailed Sep. 9, 2011, 26 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00214">
+<othercit>Non final Office Action in U.S. Appl. No. 12/821,041, mailed Aug. 17, 2010, 24 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00215">
+<othercit>Lee &#x26; Hayes, Reply Amendment in U.S. Appl. No. 12/821,041, mailed Aug. 17, 2010, filed Feb. 14, 2011, 28 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00216">
+<othercit>Final Office Action in U.S. Appl. No. 12/821,041, mailed Jun. 27, 2011, 36 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00217">
+<othercit>Fish &#x26; Richardson P.C., Amendment in Reply to Office Action in U.S. Appl. No. 12/821,041, mailed Jun. 27, 2011, filed Jan. 6, 2012, 155 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00218">
+<othercit>Bates, &#x201c;Inhaled Nitric Oxide: A Selective Pulmonary Vasodilator,&#x201d; 2004, 9 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00219">
+<othercit>Definition of &#x201c;Contraindication&#x201d; on Medicine.net.com; http://www.medterms.com/script/main/art.asp?articlekey=17824; retrieved Mar. 14, 2011; 2 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00220">
+<othercit>Murray et al., &#x201c;Angiotensin Converting Enzyme Inhibitory Peptides Derived from Food Proteins: Biochemistry, Bioactivity and Production,&#x201d; Current Pharmaceutical Design, 2007, pp. 773-791.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00221">
+<othercit>NIH CC: Critical Care Services, http://www.cc.nih.gov/ccmd/clinical<sub>&#x2014;</sub>services.html; retrieved Mar. 10, 2011, 3 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00222">
+<othercit>Guidelines for Industry: Clinical Safety Data Management&#x3c;&#x3c;www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidance/ucm073087.pdf&#x3e;&#x3e;, Mar. 1995, 17 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00223">
+<othercit>UCI General Clinical Research Center, &#x3c;&#x3c;http://www.gcrc.uci.edu/rsa/aer.cfm&#x3e;&#x3e;, retrieved Sep. 13, 2010, 2 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00224">
+<othercit>INO Therapeutics, &#x201c;Comparison of Inhaled Nitric Oxide and Oxygen in Patient Reactivity during Acute Pulmonary Vasodilator Testing,&#x201d; downloaded from clinicaltrials.gov on Apr. 23, 2012; first received on Feb. 20, 2008; last updated on Oct. 18, 2010.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>29</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>None</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>12494598</doc-number>
+<date>20090630</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12821020</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20100330207</doc-number>
+<kind>A1</kind>
+<date>20101230</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Baldassarre</last-name>
+<first-name>James S.</first-name>
+<address>
+<city>Doylestown</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Rosskamp</last-name>
+<first-name>Ralf</first-name>
+<address>
+<city>Chester</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Fish &#x26; Richardson P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>INO Therapeutics LLC</orgname>
+<role>02</role>
+<address>
+<city>Hampton</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Arnold</last-name>
+<first-name>Ernst</first-name>
+<department>1613</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The invention relates methods of reducing the risk or preventing the occurrence of an adverse event (AE) or a serious adverse event (SAE) associated with a medical treatment comprising inhalation of nitric oxide.</p>
+</abstract>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to U.S. patent application Ser. No. 12/494,598, entitled &#x201c;Methods of Treating Term and Near-Term Neonates Having Hypoxic Respiratory Failure Associated with Clinical or Echocardiographic Evidence of Pulmonary Hypertension&#x201d;, filed on Jun. 30, 2009, incorporated herein by reference.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">INOmax&#xae;, (nitric oxide) for inhalation is an approved drug product for the treatment of term and near-term (&#x3e;34 weeks gestation) neonates having hypoxic respiratory failure associated with clinical or echocardiographic evidence of pulmonary hypertension.</p>
+<p id="p-0004" num="0003">The use of inhaled NO (iNO) has been studied and reported in the literature. (Kieler-Jensen M et al., 1994, Inhaled Nitric Oxide in the Evaluation of Heart Transplant Candidates with Elevated Pulmonary Vascular Resistance, <i>J Heart Lung Transplantation </i>13:366-375; Pearl R G et al., 1983, Acute Hemodynamic Effects of Nitroglycerin in Pulmonary Hypertension, <i>American College of Physicians </i>99:9-13; Ajami G H et al., 2007, Comparison of the Effectiveness of Oral Sildenafil Versus Oxygen Administration as a Test for Feasibility of Operation for Patients with Secondary Pulmonary Arterial Hypertension, <i>Pediatr Cardiol</i>; Schulze-Neick I et al., 2003, Intravenous Sildenafil Is a Potent Pulmonary Vasodilator in Children With Congenital Heart Disease, <i>Circulation </i>108 (Suppl II):II-167-II-173; Lepore J J et al., 2002, Effect of Sildenafil on the Acute Pulmonary Vasodilator Response to Inhaled Nitric Oxide in Adults with Primary Pulmonary Hypertension, <i>The American Journal of Cardiology </i>90:677-680; and Ziegler J W et al., 1998, Effects of Dipyridamole and Inhaled Nitric Oxide in Pediatric Patients with Pulmonary Hypertension, <i>American Journal of Respiratory and Critical Care Medicine </i>158:1388-95).</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0005" num="0004">One aspect of the invention relates to a pre-screening methodology or protocol having exclusionary criteria to be evaluated by a medical provider prior to treatment of a patient with iNO. One objective of the invention is to evaluate and possibly exclude from treatment patients eligible for treatment with iNO, who have pre-existing left ventricular dysfunction (LVD). Patients who have pre-existing LVD may experience, and are at risk of, an increased rate of adverse events or serious adverse events (e.g., pulmonary edema) when treated with iNO. Such patients may be characterized as having a pulmonary capillary wedge pressure (PCWP) greater than 20 mm Hg, and should be evaluated on a case-by-case basis with respect to the benefit versus risk of using iNO as a treatment option.</p>
+<p id="p-0006" num="0005">Accordingly, one aspect of the invention includes a method of reducing the risk or preventing the occurrence, in a human patient, of an adverse event (AE) or a serious adverse event (SAE) associated with a medical treatment comprising inhalation of nitric oxide, said method comprising the steps or acts of (a) providing pharmaceutically acceptable nitric oxide gas to a medical provider; and, (b) informing the medical provider that excluding human patients who have pre-existing left ventricular dysfunction from said treatment reduces the risk or prevents the occurrence of the adverse event or the serious adverse event associated with said medical treatment.</p>
+<p id="p-0007" num="0006">Further provided herein is a method of reducing the risk or preventing the occurrence, in a human patient, of an adverse event or a serious adverse event associated with a medical treatment comprising inhalation of nitric oxide, said method comprising the steps or acts of (a.) providing pharmaceutically acceptable nitric oxide gas to a medical provider; and, (b.) informing the medical provider that human patients having pre-existing left ventricular dysfunction experience an increased risk of serious adverse events associated with said medical treatment.</p>
+<p id="p-0008" num="0007">Another aspect of the invention is a method of reducing one or more of an AE or a SAE in an intended patient population in need of being treated with iNO comprising the steps or acts of (a.) identifying a patient eligible for iNO treatment; (b) evaluating and screening the patient to identify if the patient has pre-existing LVD, and (c) excluding from iNO treatment a patient identified as having pre-existing LVD.</p>
+<p id="p-0009" num="0008">Another aspect of the invention is a method of reducing the risk or preventing the occurrence, in a patient, of one or more of an AE or a SAE associated with a medical treatment comprising iNO, the method comprising the steps or acts of (a.) identifying a patient in need of receiving iNO treatment; (b.) evaluating and screening the patient to identify if the patient has pre-existing LVD; and (c.) administering iNO if the patient does not have pre-existing LVD, thereby reducing the risk or preventing the occurrence of the AE or the SAE associated with the iNO treatment. Alternatively, step (c) may comprise further evaluating the risk versus benefit of utilizing iNO in a patient where the patients has clinically significant LVD before administering iNO to the patient.</p>
+<p id="p-0010" num="0009">In an exemplary embodiment of the method, the method further comprises informing the medical provider that there is a risk associated with using inhaled nitric oxides in human patients who have preexisting or clinically significant left ventricular dysfunction and that such risk should be evaluated on a case by case basis.</p>
+<p id="p-0011" num="0010">In another exemplary embodiment of the method, the method further comprises informing the medical provider that there is a risk associated with using inhaled nitric oxide in human patients who have left ventricular dysfunction.</p>
+<p id="p-0012" num="0011">In an exemplary embodiment of the methods described herein, a patient having pre-existing LVD is characterized as having PCWP greater than 20 mm Hg.</p>
+<p id="p-0013" num="0012">In an exemplary embodiment of the method, the patients having pre-existing LVD demonstrate a PCWP&#x2267;20 mm Hg.</p>
+<p id="p-0014" num="0013">In another exemplary embodiment of the method, the iNO treatment further comprises inhalation of oxygen (O<sub>2</sub>) or concurrent ventilation.</p>
+<p id="p-0015" num="0014">In another exemplary embodiment of the method, the patients having pre-existing LVD have one or more of diastolic dysfunction, hypertensive cardiomyopathy, systolic dysfunction, ischemic cardiomyopathy, viral cardiomyopathy, idiopathic cardiomyopathy, autoimmune disease related cardiomyopathy, drug-related cardiomyopathy, toxin-related cardiomyopathy, structural heart disease, valvular heart disease, congenital heart disease, or, associations thereof.</p>
+<p id="p-0016" num="0015">In another exemplary embodiment of the method, the patient population comprises children.</p>
+<p id="p-0017" num="0016">In another exemplary embodiment of the method, the patient population comprises adults.</p>
+<p id="p-0018" num="0017">In another exemplary embodiment of the method, the patients who have pre-existing LVD are at risk of experiencing and increased rate of one or more AEs or SAEs selected from pulmonary edema, hypotension, cardiac arrest, electrocardiogram changes, hypoxemia, hypoxia, bradycardia or associations thereof.</p>
+<p id="p-0019" num="0018">In another exemplary embodiment of the method, the intended patient population in need of being treated with inhalation of nitric oxide has one or more of idiopathic pulmonary arterial hypertension characterized by a mean pulmonary artery pressure (PAPm)&#x3e;25 mm Hg at rest, PCWP&#x2266;15 mm Hg, and, a pulmonary vascular resistance index (PVRI)&#x3e;3 u&#xb7;m<sup>2</sup>; congenital heart disease with pulmonary hypertension repaired and unrepaired characterized by PAPm&#x3e;25 mm Hg at rest and PVRI&#x3e;3 u&#xb7;m<sup>2</sup>; cardiomyopathy characterized by PAPm&#x3e;25 mm Hg at rest and PVRI&#x3e;3 u&#xb7;m<sup>2</sup>; or, the patient is scheduled to undergo right heart catheterization to assess pulmonary vasoreactivity by acute pulmonary vasodilatation testing.</p>
+<p id="p-0020" num="0019">In another exemplary embodiment of any of the above methods, the method further comprises reducing left ventricular afterload to minimize or reduce the risk of the occurrence of an adverse event or serious adverse event being pulmonary edema in the patient. The left ventricular afterload may be minimized or reduced by administering a pharmaceutical dosage form comprising nitroglycerin or calcium channel blocker to the patient. The left ventricular afterload may also be minimized or reduced using an intra-aortic balloon pump.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE EXEMPLARY EMBODIMENTS</heading>
+<p id="p-0021" num="0020">INOmax&#xae; (nitric oxide) for inhalation was approved for sale in the United States by the U.S. Food and Drug Administration (&#x201c;FDA&#x201d;) in 1999. Nitric oxide, the active substance in INOmax&#xae;, is a selective pulmonary vasodilator that increases the partial pressure of arterial oxygen (PaO2) by dilating pulmonary vessels in better ventilated areas of the lung, redistributing pulmonary blood flow away from the lung regions with low ventilation/perfusion (V/Q) ratios toward regions with normal ratios. INOmax&#xae; significantly improves oxygenation, reduces the need for extracorporeal oxygenation and is indicated to be used in conjunction with ventilatory support and other appropriate agents. The current FDA-approved prescribing information for INOmax&#xae; is incorporated herein by reference in its entirety. The CONTRAINDICATIONS section of the prescribing information for INOmax&#xae; states that INOmax&#xae; should not be used in the treatment of neonates known to be dependent on right-to-left shunting of blood.</p>
+<p id="p-0022" num="0021">INOmax&#xae; is a gaseous blend of NO and nitrogen (0.08% and 99.92% respectively for 800 ppm; and 0.01% and 99.99% respectively for 100 ppm) and is supplied in aluminium cylinders as a compressed gas under high pressure. In general, INOmax&#xae; is administered to a patient in conjunction with ventilatory support and O<sub>2</sub>. Delivery devices suitable for the safe and effective delivery of gaseous NO for inhalation include the INOvent&#xae;, INOmax DS&#xae;, INOpulse&#xae;, INOblender&#xae;, or other suitable drug delivery and regulation devices or components incorporated therein, or other related processes, which are described in various patent documents including U.S. Pat. Nos. 5,558,083; 5,732,693; 5,752,504; 5,732,694; 6,089,229; 6,109,260; 6,125,846; 6,164,276; 6,581,592; 5,918,596; 5,839,433; 7,114,510; 5,417,950; 5,670,125; 5,670,127; 5,692,495; 5,514,204; 7,523,752; 5,699,790; 5,885,621; U.S. patent application Ser. Nos. 11/355,670 (US 2007/0190184); 10/520,270 (US 2006/0093681); 11/401,722 (US 2007/0202083); 10/053,535 (US 2002/0155166); 10/367,277 (US 2003/0219496); 10/439,632 (US 2004/0052866); 10/371,666 (US 2003/0219497); 10/413,817 (US 2004/0005367); 12/050,826 (US 2008/0167609); and PCT/US2009/045266, all of which are incorporated herein by reference in their entirety.</p>
+<p id="p-0023" num="0022">Such devices deliver INOmax&#xae; into the inspiratory limb of the patient breathing circuit in a way that provides a constant concentration of NO to the patient throughout the inspired breath. Importantly, suitable delivery devices provide continuous integrated monitoring of inspired O<sub>2</sub>, NO<sub>2 </sub>and NO, a comprehensive alarm system, a suitable power source for uninterrupted NO delivery and a backup NO delivery capability.</p>
+<p id="p-0024" num="0023">As used herein, the term &#x201c;children&#x201d; (and variations thereof) includes those being around 4 weeks to 18 years of age.</p>
+<p id="p-0025" num="0024">As used herein, the term &#x201c;adult&#x201d; (and variations thereof) includes those being over 18 years of age.</p>
+<p id="p-0026" num="0025">As used herein, the terms &#x201c;adverse event&#x201d; or &#x201c;AE&#x201d; (and variations thereof) mean any untoward occurrence in a subject, or clinical investigation subject administered a pharmaceutical product (such as nitric oxide) and which does not necessarily have a causal relationship with such treatment. An adverse event can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporarily associated with the use of a medicinal/investigational product, whether or not related to the investigational product. A relationship to the investigational product is not necessarily proven or implied. However, abnormal values are not reported as adverse events unless considered clinically significant by the investigator.</p>
+<p id="p-0027" num="0026">As used herein, the terms &#x201c;adverse drug reaction&#x201d; or &#x201c;ADR&#x201d; (and variations thereof) mean any noxious and unintended response to a medicinal product related to any dose.</p>
+<p id="p-0028" num="0027">As used herein, the terms &#x201c;serious adverse event&#x201d; or &#x201c;SAE&#x201d; (or &#x201c;serious adverse drug reaction&#x201d; or &#x201c;serious ADR&#x201d;) (and variations thereof) mean a significant hazard or side effect, regardless of the investigator's opinion on the relationship to the investigational product. A serious adverse event or reaction is any untoward medical occurrence that at any dose: results in death; is life-threatening (which refers to an event/reaction where the patient was at risk of death at the time of the event/reaction, however this does not refer to an event/reaction that hypothetically may have caused death if it were more severe); requires inpatient hospitalization or results in prolongation of existing hospitalization; results in persistent or significant disability/incapacity; is a congenital anomaly/birth defect; or, is a medically important event or reaction. Medical and scientific judgment is exercised in deciding whether reporting is appropriate in other situations, such as important medical events that may not be immediately life threatening or result in death or hospitalization but may jeopardize the subject or may require medical or surgical intervention to prevent one of the other outcomes listed above&#x2014;these are also considered serious. Examples of such medical events include cancer, allergic bronchospasm requiring intensive treatment in an emergency room or at home, blood dyscrasias or convulsions that do not result in hospitalizations, or the development of drug dependency or drug abuse. Serious clinical laboratory abnormalities directly associated with relevant clinical signs or symptoms are also reported.</p>
+<p id="p-0029" num="0028">Left Ventricular Dysfunction. Patients having pre-existing LVD may be described in general as those with elevated pulmonary capillary wedge pressure, including those with diastolic dysfunction (including hypertensive cardiomyopathy), those with systolic dysfunction, including those with cardiomyopathies (including ischemic or viral cardiomyopathy, or idiopathic cardiomyopathy, or autoimmune disease related cardiomyopathy, and side effects due to drug related or toxic-related cardiomyopathy), or structural heart disease, valvular heart disease, congenital heart disease, idiopathic pulmonary arterial hypertension, pulmonary hypertension and cardiomyopathy, or associations thereof. Identifying patients with pre-existing LVD is known to those skilled in the medicinal arts, and such techniques for example may include assessment of clinical signs and symptoms of heart failure, or echocardiography diagnostic screening.</p>
+<p id="p-0030" num="0029">Pulmonary Capillary Wedge Pressure. Pulmonary capillary wedge pressure, or &#x201c;PCWP&#x201d;, provides an estimate of left atrial pressure. Identifying patients with pre-existing PCWP is known to those skilled in the medicinal arts, and such techniques for example may include measure by inserting balloon-tipped, multi-lumen catheter (also known as a Swan-Ganz catheter). Measure of PCWP may be used as a means to diagnose the severity of LVD (sometimes also referred to as left ventricular failure). PCWP is also a desired measure when evaluating pulmonary hypertension. Pulmonary hypertension is often caused by an increase in pulmonary vascular resistance (PVR), but may also arise from increases in pulmonary venous pressure and pulmonary blood volume secondary to left ventricular failure or mitral or aortic valve disease.</p>
+<p id="p-0031" num="0030">In cardiac physiology, afterload is used to mean the tension produced by a chamber of the heart in order to contract. If the chamber is not mentioned, it is usually assumed to be the left ventricle. However, the strict definition of the term relates to the properties of a single cardiac myocyte. It is therefore only of direct relevance in the laboratory; in the clinic, the term end-systolic pressure is usually more appropriate, although not equivalent.</p>
+<p id="p-0032" num="0031">The terms &#x201c;left ventricular afterload&#x201d; (and variations thereof) refer to the pressure that the chamber of the heart has to generate in order to eject blood out of the chamber. Thus, it is a consequence of the aortic pressure since the pressure in the ventricle must be greater than the systemic pressure in order to open the aortic valve. Everything else held equal, as afterload increases, cardiac output decreases. Disease processes that increase the left ventricular afterload include increased blood pressure and aortic valve disease. Hypertension (Increased blood pressure) increases the left ventricular afterload because the left ventricle has to work harder to eject blood into the aorta. This is because the aortic valve won't open until the pressure generated in the left ventricle is higher than the elevated blood pressure. Aortic stenosis increases the afterload because the left ventricle has to overcome the pressure gradient caused by the stenotic aortic valve in addition to the blood pressure in order to eject blood into the aorta. For instance, if the blood pressure is 120/80, and the aortic valve stenosis creates a trans-valvular gradient of 30 mmHg, the left ventricle has to generate a pressure of 110 mmHg in order to open the aortic valve and eject blood into the aorta. Aortic insufficiency increases afterload because a percentage of the blood that is ejected forward regurgitates back through the diseased aortic valve. This leads to elevated systolic blood pressure. The diastolic blood pressure would fall, due to regurgitation. This would result in an increase pulse pressure. Mitral regurgitation decreases the afterload. During ventricular systole, the blood can regurgitate through the diseased mitral valve as well as be ejected through the aortic valve. This means that the left ventricle has to work less to eject blood, causing a decreased afterload. Afterload is largely dependent upon aortic pressure.</p>
+<p id="p-0033" num="0032">An intra-aortic balloon pump (IABP) is a mechanical device that is used to decrease myocardial oxygen demand while at the same time increasing cardiac output. By increasing cardiac output it also increases coronary blood flow and therefore myocardial oxygen delivery. It consists of a cylindrical balloon that sits in the aorta and counterpulsates. That is, it actively deflates in systole increasing forward blood flow by reducing afterload thus, and actively inflates in diastole increasing blood flow to the coronary arteries. These actions have the combined result of decreasing myocardial oxygen demand and increasing myocardial oxygen supply. The balloon is inflated during diastole by a computer controlled mechanism, usually linked to either an ECG or a pressure transducer at the distal tip of the catheter; some IABPs, such as the Datascope System 98XT, allow for asynchronous counterpulsation at a set rate, though this setting is rarely used. The computer controls the flow of helium from a cylinder into and out of the balloon. Helium is used because its low viscosity allows it to travel quickly through the long connecting tubes, and has a lower risk of causing a harmful embolism should the balloon rupture while in use. Intraaortic balloon counterpulsation is used in situations when the heart's own cardiac output is insufficient to meet the oxygenation demands of the body. These situations could include cardiogenic shock, severe septic shock, post cardiac surgery and numerous other situations.</p>
+<p id="p-0034" num="0033">Patients eligible for treatment with iNO. In general, patients approved for treatment of iNO are term and near-term (&#x3e;34 weeks gestation) neonates having hypoxic respiratory failure associated with clinical or echocardiographic evidence of pulmonary hypertension, a condition also known as persistent pulmonary hypertension in the newborn (PPHN). Due to the selective, non-systemic nature of iNO to reduce pulmonary hypertension, physicians skilled in the art further employ INOmax&#xae; to treat or prevent pulmonary hypertension and improve blood O<sub>2 </sub>levels in a variety of other clinical settings, including in both pediatric and adult patients suffering from acute respiratory distress syndrome (ARDS), pediatric and adult patients undergoing cardiac or transplant surgeries, pediatric and adult patients for testing to diagnose reversible pulmonary hypertension, and in pediatric patients with congenital diaphragmatic hernia. In most, if not all, of these applications, INOmax&#xae; acts by preventing or treating reversible pulmonary vasoconstriction, reducing pulmonary arterial pressure and improving pulmonary gas exchange.</p>
+<p id="p-0035" num="0034">A small proportion of INOmax&#xae; sales stem from its use by clinicians in a premature infant population. In these patients, INOmax&#xae; is generally utilized by physicians as a rescue therapy primarily to vasodilate the lungs and improve pulmonary gas exchange. Some physicians speculate that INOmax&#xae; therapy may promote lung development and/or reduce or prevent the future development of lung disease in a subset of these patients. Although the precise mechanism(s) responsible for the benefits of INOmax&#xae; therapy in these patients is not completely understood, it appears that the benefits achieved in at least a majority of these patients are due to the ability of INOmax&#xae; to treat or prevent reversible pulmonary vasoconstriction.</p>
+<p id="p-0036" num="0035">In clinical practice, the use of INOmax&#xae; has reduced or eliminated the use of high risk systemic vasodilators for the treatment of PPHN. INOmax&#xae;, in contrast to systemic vasodilators, specifically dilates the pulmonary vasculature without dilating systemic blood vessels. Further, iNO preferentially vasodilates vessels of aveoli that are aerated, thus improving V/Q matching. In contrast, systemic vasodilators may increase blood flow to atelectatic (deflated or collapsed) alveoli, thereby increasing V/Q mismatch and worsening arterial oxygenation. (See Rubin L J, Kerr K M, Pulmonary Hypertension, in <i>Critical Care Medicine: Principles of Diagnosis and Management in the Adult, </i>2<i>d Ed</i>., Parillo J E, Dellinger R P (eds.), Mosby, Inc. 2001, pp. 900-09 at 906; Kinsella J P, Abman S H, The Role of Inhaled Nitric Oxide in Persistent Pulmonary Hypertension of the Newborn, in <i>Acute Respiratory Care of the Neonate: A Self</i>-<i>Study Course, </i>2<i>d Ed</i>., Askin D F (ed.), NICU Ink Book Publishers, 1997, pp. 369-378 at 372-73).</p>
+<p id="p-0037" num="0036">INOmax&#xae; also possesses highly desirable pharmacokinetic properties as a lung-specific vasodilator when compared to other ostensibly &#x201c;pulmonary-specific vasodilators.&#x201d; For example, the short half-life of INOmax&#xae; allows INOmax&#xae; to exhibit rapid &#x201c;on&#x201d; and &#x201c;off&#x201d; responses relative to INOmax&#xae; dosing, in contrast to non-gaseous alternatives. In this way, INOmax&#xae; can provide physicians with a useful therapeutic tool to easily control the magnitude and duration of the pulmonary vasodilatation desired. Also, the nearly instantaneous inactivation of INOmax&#xae; in the blood significantly reduces or prevents vasodilatation of non-pulmonary vessels.</p>
+<p id="p-0038" num="0037">The pivotal trials leading to the approval of INOmax&#xae; were the CINRGI and NINOS study.</p>
+<p id="p-0039" num="0038">CINRGI study. (See Davidson et al., March 1998, Inhaled Nitric Oxide for the Early Treatment of Persistent Pulmonary Hypertension of the term Newborn; A Randomized, Double-Masked, Placebo-Controlled, Dose-Response, Multicenter Study; <i>PEDIATRICS </i>Vol. 101, No. 3, p. 325).</p>
+<p id="p-0040" num="0039">This study was a double-blind, randomized, placebo-controlled, multicenter trial of 186 term and near-term neonates with pulmonary hypertension and hypoxic respiratory failure. The primary objective of the study was to determine whether INOmax&#xae; would reduce the receipt of extracorporeal membrane oxygenation (ECMO) in these patients. Hypoxic respiratory failure was caused by meconium aspiration syndrome (MAS) (35%), idiopathic persistent pulmonary hypertension of the newborn (PPHN) (30%), pneumonia/sepsis (24%), or respiratory distress syndrome (RDS) (8%). Patients with a mean PaO<sub>2 </sub>of 54 mm Hg and a mean oxygenation index (OI) of 44 cm H<sub>2</sub>O/mm Hg were randomly assigned to receive either 20 ppm INOmax&#xae; (n=97) or nitrogen gas (placebo; n=89) in addition to their ventilatory support. Patients that exhibited a PaO<sub>2</sub>&#x3e;60 mm Hg and a pH&#x3c;7.55 were weaned to 5 ppm INOmax&#xae; or placebo. The primary results from the CINRGI study are presented in Table 4. ECMO was the primary endpoint of the study.</p>
+<p id="p-0041" num="0040">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Summary of Clinical Results from CINRGI Study</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="70pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Placebo</entry>
+<entry>INOmax&#x2009;&#xae;</entry>
+<entry>P value</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Death or ECMO</entry>
+<entry>51/89 (57%)</entry>
+<entry>30/97 (31%)</entry>
+<entry>&#x3c;0.001</entry>
+</row>
+<row>
+<entry/>
+<entry>Death</entry>
+<entry>5/89 (6%)</entry>
+<entry>3/97 (3%)</entry>
+<entry>0.48</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0042" num="0041">Significantly fewer neonates in the ECMO group required ECMO, and INOmax&#xae; significantly improved oxygenation, as measured by PaO<sub>2</sub>, OI, and alveolar-arterial gradient.</p>
+<p id="p-0043" num="0042">NINOS study. (See Inhaled Nitric Oxide in Full-Term and Nearly Full-Term Infants with Hypoxic Respiratory Failure; NEJM, Vol. 336, No. 9, 597).</p>
+<p id="p-0044" num="0043">The Neonatal Inhaled Nitric Oxide Study (NINOS) group conducted a double-blind, randomized, placebo-controlled, multicenter trial in 235 neonates with hypoxic respiratory failure. The objective of the study was to determine whether iNO would reduce the occurrence of death and/or initiation of ECMO in a prospectively defined cohort of term or near-term neonates with hypoxic respiratory failure unresponsive to conventional therapy. Hypoxic respiratory failure was caused by meconium aspiration syndrome (MAS; 49%), pneumonia/sepsis (21%), idiopathic primary pulmonary hypertension of the newborn (PPHN; 17%), or respiratory distress syndrome (RDS; 11%). Infants&#x2266;14 days of age (mean, 1.7 days) with a mean PaO<sub>2 </sub>of 46 mm Hg and a mean oxygenation index (OI) of 43 cm H<sub>2</sub>O/mmHg were initially randomized to receive 100% O<sub>2 </sub>with (n=114) or without (n=121) 20 ppm NO for up to 14 days. Response to study drug was defined as a change from baseline in PaO<sub>2 </sub>30 minutes after starting treatment (full response=&#x3e;20 mmHg, partial=10-20 mm Hg, no response=&#x3c;10 mm Hg). Neonates with a less than full response were evaluated for a response to 80 ppm NO or control gas. The primary results from the NINOS study are presented in Table 2.</p>
+<p id="p-0045" num="0044">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Summary of Clinical Results from NINOS Study</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="84pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Control</entry>
+<entry>NO</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(n = 121)</entry>
+<entry>(n = 114)</entry>
+<entry>P value</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Death or ECMO *, &#x2020;</entry>
+<entry>77 (64%)</entry>
+<entry>52 (46%)</entry>
+<entry>0.006</entry>
+</row>
+<row>
+<entry/>
+<entry>Death</entry>
+<entry>20 (17%)</entry>
+<entry>16 (14%)</entry>
+<entry>0.60</entry>
+</row>
+<row>
+<entry/>
+<entry>ECMO</entry>
+<entry>66 (55%)</entry>
+<entry>44 (39%)</entry>
+<entry>0.014</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="left" id="FOO-00001">* Extracorporeal membrane oxygenation</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="left" id="FOO-00002">&#x2020; Death or need for ECMO was the study's primary end point</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0046" num="0045">Adverse Events from CINRGI &#x26; NINOS. Controlled studies have included 325 patients on INOmax&#xae; doses of 5 to 80 ppm and 251 patients on placebo. Total mortality in the pooled trials was 11% on placebo and 9% on INOmax&#xae;, a result adequate to exclude INOmax&#xae; mortality being more than 40% worse than placebo.</p>
+<p id="p-0047" num="0046">In both the NINOS and CINRGI studies, the duration of hospitalization was similar in INOmax&#xae; and placebo-treated groups.</p>
+<p id="p-0048" num="0047">From all controlled studies, at least 6 months of follow-up is available for 278 patients who received INOmax&#xae; and 212 patients who received placebo. Among these patients, there was no evidence of an AE of treatment on the need for re-hospitalization, special medical services, pulmonary disease, or neurological squeal.</p>
+<p id="p-0049" num="0048">In the NINOS study, treatment groups were similar with respect to the incidence and severity of intracranial hemorrhage, Grade IV hemorrhage, per ventricular leukomalacia, cerebral infarction, seizures requiring anticonvulsant therapy, pulmonary hemorrhage, or gastrointestinal hemorrhage.</p>
+<p id="p-0050" num="0049">The table below shows adverse reactions that occurred in at least 5% of patients receiving INOmax&#xae; in the CINRGI study. None of the differences in these adverse reactions were statistically significant when iNO patients were compared to patients receiving placebo.</p>
+<p id="p-0051" num="0050">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>ADVERSE REACTIONS ON THE CINRGI TRIAL</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="84pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="77pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Placebo</entry>
+<entry>Inhaled NO</entry>
+</row>
+<row>
+<entry/>
+<entry>Adverse Reaction</entry>
+<entry>(n = 89)</entry>
+<entry>(n = 97)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Atelectasis</entry>
+<entry>5 (4.8%)</entry>
+<entry>7 (6.5%)</entry>
+</row>
+<row>
+<entry/>
+<entry>Bilirubinemia</entry>
+<entry>6 (5.8%)</entry>
+<entry>7 (6.5%)</entry>
+</row>
+<row>
+<entry/>
+<entry>Hypokalemia</entry>
+<entry>5 (4.8%)</entry>
+<entry>9 (8.3%)</entry>
+</row>
+<row>
+<entry/>
+<entry>Hypotension</entry>
+<entry>3 (2.9%)</entry>
+<entry>6 (5.6%)</entry>
+</row>
+<row>
+<entry/>
+<entry>Thrombocytopenia</entry>
+<entry>20 (19.2%)</entry>
+<entry>16 (14.8%)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0052" num="0051">Post-Marketing Experience. The following AEs have been reported as part of the post-marketing surveillance. These events have not been reported above. Given the nature of spontaneously reported post-marketing surveillance data, it is impossible to determine the actual incidence of the events or definitively establish their causal relationship to the drug. The listing is alphabetical: dose errors associated with the delivery system; headaches associated with environmental exposure of INOmax&#xae; in hospital staff; hypotension associated with acute withdrawal of the drug; hypoxemia associated with acute withdrawal of the drug; pulmonary edema in patients with CREST syndrome.</p>
+<p id="p-0053" num="0052">An analysis of AEs and SAEs from both the CINRGI and NINOS studies, in addition to post-marketing surveillance, did not suggest that patients who have pre-existing LVD could experience an increased risk of AEs or SAEs. Nor was it predictable to physicians skilled in the art that patients having pre-existing LVD (possibly identified as those patients having a PCWP greater than 20 mmHg) should be evaluated in view of the benefit versus risk of using iNO in patients with clinically significant LVD, and that these patients should be evaluated on a case by case basis.</p>
+<heading id="h-0005" level="1">Example 1</heading>
+<heading id="h-0006" level="1">INOT22 Study</heading>
+<p id="p-0054" num="0053">The INOT22, entitled &#x201c;Comparison of supplemental oxygen and nitric oxide for inhalation plus oxygen in the evaluation of the reactivity of the pulmonary vasculature during acute pulmonary vasodilatory testing&#x201d; was conducted both to access the safety and effectiveness of INOmax&#xae; as a diagnostic agent in patients undergoing assessment of pulmonary hypertension (primary endpoint), and to confirm the hypothesis that iNO is selective for the pulmonary vasculature (secondary endpoint).</p>
+<p id="p-0055" num="0054">During, and upon final analysis of the INOT22 study results, applicants discovered that rapidly decreasing the pulmonary vascular resistance, via the administration of iNO to a patient in need of such treatment, may be detrimental to patients with concomitant, pre-existing LVD. Therefore, a precaution for patients with LVD was proposed to be included in amended prescribing information for INOmax&#xae;. Physicians were further informed to consider reducing left ventricular afterload to minimize the occurrence of pulmonary edema in patients with pre-existing LVD.</p>
+<p id="p-0056" num="0055">In particular, the INOT22 protocol studied consecutive children undergoing cardiac catheterization that were prospectively enrolled at 16 centers in the US and Europe. Inclusion criteria: 4 weeks to 18 years of age, pulmonary hypertension diagnosis, i.e. either idiopathic pulmonary hypertension (IPAH) or related to congenital heart disease (CHD) (repaired or unrepaired) or cardiomyopathy, with pulmonary vascular resistance index (PVRI)&#x3e;3 u-m<sup>2</sup>. Later amendments, as discussed herein, added an additional inclusionary criteria of a PCWP less than 20 gmm Hg. Patients were studied under general anaesthesia, or with conscious sedation, according to the practice of the investigator. Exclusion criteria: focal infiltrates on chest X-ray, history of intrinsic lung disease, and/or currently taking PDE-5 inhibitors, prostacyclin analogues or sodium nitroprusside. The study involved supplemental O<sub>2 </sub>and NO for inhalation plus O<sub>2 </sub>in the evaluation of the reactivity of the pulmonary vasculature during acute pulmonary vasodilator testing. Consecutive children undergoing cardiac catheterization were prospectively enrolled at 16 centers in the US and Europe. As hypotension is expected in these neonatal populations, the comparison between iNO and placebo groups is difficult to assess. A specific secondary endpoint was evaluated in study INOT22 to provide a more definitive evaluation.</p>
+<p id="p-0057" num="0056">The primary objective was to compare the response frequency with iNO and O<sub>2 </sub>vs. O<sub>2 </sub>alone; in addition, all subjects were studied with iNO alone. Patients were studied during five periods: Baseline 1, Treatment Period 1, Treatment Period 2, Baseline 2 and Treatment Period 3. All patients received all three treatments; treatment sequence was randomized by center in blocks of 4; in Period 1, patients received either NO alone or O<sub>2 </sub>alone, and the alternate treatment in Period 3. All patients received the iNO and O<sub>2 </sub>combination treatment in Period 2. Once the sequence was assigned, treatment was unblinded. Each treatment was given for 10 minutes prior to obtaining hemodynamic measurements, and the Baseline Period 2 was at least 10 minutes.</p>
+<p id="p-0058" num="0057">Results for the intent-to-treat (ITT) population, defined as all patients who were randomized to receive drug, indicated that treatment with NO plus O<sub>2 </sub>and O<sub>2 </sub>alone significantly increased systemic vascular resistance index (SVRI) (Table 4). The change from baseline for NO plus O<sub>2 </sub>was 1.4 Woods Units per meter<sup>2 </sup>(WU&#xb7;m<sup>2</sup>) (p=0.007) and that for O<sub>2 </sub>was 1.3 WU&#xb7;m<sup>2 </sup>(p=0.004). While the change from baseline in SVRI with NO alone was &#x2212;0.2 WU&#xb7;m<sup>2 </sup>(p=0.899) which demonstrates a lack of systemic effect.</p>
+<p id="p-0059" num="0058">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>SVRI Change From Baseline by Treatment (Intent-to-Treat)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="84pt" align="left"/>
+<colspec colname="1" colwidth="133pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Treatment</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="84pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>NO Plus O<sub>2</sub></entry>
+<entry>O<sub>2</sub></entry>
+<entry>NO</entry>
+</row>
+<row>
+<entry>SVRI (WU &#xb7; m<sup>2</sup>)</entry>
+<entry>(n = 109)</entry>
+<entry>(n = 106)</entry>
+<entry>(n = 106)</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="84pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Baseline (room air)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Mean</entry>
+<entry>17.2</entry>
+<entry>17.6</entry>
+<entry>18.0</entry>
+</row>
+<row>
+<entry>Standard Deviation (SD)</entry>
+<entry>8.86</entry>
+<entry>9.22</entry>
+<entry>8.44</entry>
+</row>
+<row>
+<entry>Median</entry>
+<entry>15.9</entry>
+<entry>16.1</entry>
+<entry>16.2</entry>
+</row>
+<row>
+<entry>Minimum, maximum</entry>
+<entry>&#x2212;7.6, 55.6</entry>
+<entry>&#x2212;7.6, 55.6</entry>
+<entry>1.9, 44.8</entry>
+</row>
+<row>
+<entry>Post-treatment</entry>
+</row>
+<row>
+<entry>Mean</entry>
+<entry>18.7</entry>
+<entry>18.9</entry>
+<entry>17.8</entry>
+</row>
+<row>
+<entry>SD</entry>
+<entry>9.04</entry>
+<entry>8.78</entry>
+<entry>9.40</entry>
+</row>
+<row>
+<entry>Median</entry>
+<entry>17.1</entry>
+<entry>17.1</entry>
+<entry>15.4</entry>
+</row>
+<row>
+<entry>Minimum, maximum</entry>
+<entry>&#x2009;&#x2009;3.0, 47.4</entry>
+<entry>&#x2009;&#x2009;3.9, 43.6</entry>
+<entry>3.3, 50.7</entry>
+</row>
+<row>
+<entry>Change From Baseline</entry>
+</row>
+<row>
+<entry>Mean</entry>
+<entry>1.4</entry>
+<entry>1.3</entry>
+<entry>&#x2212;0.2</entry>
+</row>
+<row>
+<entry>SD</entry>
+<entry>5.94</entry>
+<entry>5.16</entry>
+<entry>4.65</entry>
+</row>
+<row>
+<entry>Median</entry>
+<entry>1.2</entry>
+<entry>1.0</entry>
+<entry>0.2</entry>
+</row>
+<row>
+<entry>Minimum, maximum</entry>
+<entry>&#x2212;20.5, 19.1&#x2002;</entry>
+<entry>&#x2212;18.1, 17.7&#x2002;</entry>
+<entry>&#x2212;12.5, 12.7&#x2003;</entry>
+</row>
+<row>
+<entry>p-value<sup>a</sup></entry>
+<entry>0.007</entry>
+<entry>0.004</entry>
+<entry>0.899</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00003">Pairwise comparisons</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00004">NO plus O<sub>2 </sub>versus O<sub>2</sub>, p = 0.952</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00005">NO plus O<sub>2 </sub>versus NO, p = 0.014</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00006">O<sub>2 </sub>versus NO, p = 0.017</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00007"><sup>a</sup>p-value from a Wilcoxon Signed Rank Test. Only patients with data to determine response at both treatments are included in this analysis.</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00008">Source: INOT22 CSR Table 6.4.1 and Appendix 16.2.6 (ATTACHMENT 1)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0060" num="0059">The ideal pulmonary vasodilator should reduce PVRI and/or PAPm while having no appreciable effect on systemic blood pressure or SVRI. In this case, the ratio of PVRI to SVRI would decrease, given some measure of the selectivity of the agent for the pulmonary vascular bed. The change in the ratio of PVRI to SVRI by treatment is shown in Table 5.</p>
+<p id="p-0061" num="0060">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 5</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Change in Ratio of PVRI to SVRI by Treatment (Intent-to-Treat)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="70pt" align="left"/>
+<colspec colname="1" colwidth="140pt" align="center"/>
+<colspec colname="2" colwidth="7pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Treatment</entry>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>NO Plus O<sub>2</sub></entry>
+<entry>O<sub>2</sub></entry>
+<entry>NO</entry>
+</row>
+<row>
+<entry>Ratio PVRI/SVRI</entry>
+<entry>(n = 108)</entry>
+<entry>(n = 105)</entry>
+<entry>(n = 106)</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="char" char="."/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Baseline</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Mean</entry>
+<entry>0.6</entry>
+<entry>0.5</entry>
+<entry>0.6</entry>
+</row>
+<row>
+<entry>SD</entry>
+<entry>0.60</entry>
+<entry>0.45</entry>
+<entry>0.56</entry>
+</row>
+<row>
+<entry>Median</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.4</entry>
+</row>
+<row>
+<entry>Minimum, Maximum</entry>
+<entry>&#x2212;1.6, 4.7</entry>
+<entry>&#x2212;1.6, 1.8</entry>
+<entry>&#x2009;&#x2009;0.0, 4.7</entry>
+</row>
+<row>
+<entry>Post Treatment</entry>
+</row>
+<row>
+<entry>Mean</entry>
+<entry>0.4</entry>
+<entry>0.4</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>SD</entry>
+<entry>0.31</entry>
+<entry>0.31</entry>
+<entry>0.46</entry>
+</row>
+<row>
+<entry>Median</entry>
+<entry>0.3</entry>
+<entry>0.4</entry>
+<entry>0.3</entry>
+</row>
+<row>
+<entry>Minimum, Maximum</entry>
+<entry>&#x2009;&#x2009;0.0, 1.3</entry>
+<entry>&#x2009;&#x2009;0.0, 1.4</entry>
+<entry>&#x2212;1.2, 2.2</entry>
+</row>
+<row>
+<entry>Change from Baseline</entry>
+</row>
+<row>
+<entry>Mean</entry>
+<entry>&#x2212;0.2</entry>
+<entry>&#x2212;0.1</entry>
+<entry>&#x2212;0.1</entry>
+</row>
+<row>
+<entry>SD</entry>
+<entry>0.52</entry>
+<entry>0.31</entry>
+<entry>0.54</entry>
+</row>
+<row>
+<entry>Median</entry>
+<entry>&#x2212;0.1</entry>
+<entry>&#x2212;0.1</entry>
+<entry>0.0</entry>
+</row>
+<row>
+<entry>Minimum, Maximum</entry>
+<entry>&#x2212;4.4, 2.0</entry>
+<entry>&#x2212;1.6, 2.0</entry>
+<entry>&#x2212;4.4, 1.6</entry>
+</row>
+<row>
+<entry>P Value<sup>1</sup></entry>
+<entry>&#x3c;0.001</entry>
+<entry>&#x3c;0.001</entry>
+<entry>0.002</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00009"><sup>1</sup>Wilcoxon Signed Rank Test</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00010">Source: INOT22 CSR Table 6.5.1 (ATTACHMENT 2)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0062" num="0061">All three treatments have a preferential effect on the pulmonary vascular bed, suggesting that all three are selective pulmonary vasodilators. The greatest reduction in the ratio was during treatment with NO plus O<sub>2</sub>, possibly due to the decrease in SVRI effects seen with O<sub>2 </sub>and NO plus O<sub>2</sub>. These results are displayed as percent change in the ratio (See Table 6).</p>
+<p id="p-0063" num="0062">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 6</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Percent Change in Ratio of PVRI to</entry>
+</row>
+<row>
+<entry>SVRI by Treatment (Intent-to-Treat)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="70pt" align="left"/>
+<colspec colname="1" colwidth="147pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Treatment</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>NO Plus O<sub>2</sub></entry>
+<entry>O<sub>2</sub></entry>
+<entry>NO</entry>
+</row>
+<row>
+<entry>Ratio PVRI/SVRI</entry>
+<entry>(n = 108)</entry>
+<entry>(n = 105)</entry>
+<entry>(n = 106)</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="char" char="."/>
+<colspec colname="3" colwidth="49pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Baseline</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Mean</entry>
+<entry>0.6</entry>
+<entry>0.5</entry>
+<entry>0.6</entry>
+</row>
+<row>
+<entry>SD</entry>
+<entry>0.60</entry>
+<entry>0.45</entry>
+<entry>0.56</entry>
+</row>
+<row>
+<entry>Median</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.4</entry>
+</row>
+<row>
+<entry>Minimum, Maximum</entry>
+<entry>&#x2212;1.6, 4.7</entry>
+<entry>&#x2212;1.6, 1.8</entry>
+<entry>&#x2009;&#x2009;0.0, 4.7</entry>
+</row>
+<row>
+<entry>Post Treatment</entry>
+</row>
+<row>
+<entry>Mean</entry>
+<entry>0.4</entry>
+<entry>0.4</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>SD</entry>
+<entry>0.31</entry>
+<entry>0.31</entry>
+<entry>0.46</entry>
+</row>
+<row>
+<entry>Median</entry>
+<entry>0.3</entry>
+<entry>0.4</entry>
+<entry>0.3</entry>
+</row>
+<row>
+<entry>Minimum, Maximum</entry>
+<entry>&#x2009;&#x2009;0.0, 1.3</entry>
+<entry>&#x2009;&#x2009;0.0, 1.4</entry>
+<entry>&#x2212;1.2, 2.2</entry>
+</row>
+<row>
+<entry>Percent Change</entry>
+</row>
+<row>
+<entry>from Baseline</entry>
+</row>
+<row>
+<entry>Mean</entry>
+<entry>&#x2212;33.5</entry>
+<entry>&#x2212;19.3</entry>
+<entry>&#x2212;6.2</entry>
+</row>
+<row>
+<entry>SD</entry>
+<entry>36.11</entry>
+<entry>34.59</entry>
+<entry>64.04</entry>
+</row>
+<row>
+<entry>Median</entry>
+<entry>&#x2212;34.0</entry>
+<entry>&#x2212;21.3</entry>
+<entry>&#x2212;13.8</entry>
+</row>
+<row>
+<entry>Minimum, Maximum</entry>
+<entry>&#x2212;122.2, 140.1</entry>
+<entry>&#x2212;122.7, 93.3&#x2002;</entry>
+<entry>&#x2212;256.1, 294.1</entry>
+</row>
+<row>
+<entry>P Value<sup>1</sup></entry>
+<entry>&#x3c;0.001</entry>
+<entry>&#x3c;0.001</entry>
+<entry>0.006</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00011"><sup>1</sup>Wilcoxon Signed Rank Test</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00012">Source: INOT22 CSR Table 6.5.2 (ATTACHMENT 3)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0064" num="0063">NO plus O<sub>2 </sub>appeared to provide the greatest reduction in the ratio, suggesting that NO plus O<sub>2 </sub>was more selective for the pulmonary vasculature than either agent alone.</p>
+<p id="p-0065" num="0064">Overview of Cardiovascular Safety. In the INOT22 diagnostic study, all treatments (NO plus O<sub>2</sub>, O<sub>2</sub>, and NO) were well-tolerated. Seven patients of 134 treated experienced an AE during the study. These included cardiac arrest, bradycardia, low cardiac output (CO) syndrome, elevated ST segment (the portion of an electrocardiogram between the end of the QRS complex and the beginning of the T wave) on the electrocardiography (ECG) decreased O<sub>2 </sub>saturation, hypotension, mouth hemorrhage and pulmonary hypertension (PH). The numbers of patients and events were too small to determine whether risk for AEs differed by treatment, diagnosis, age, gender or race. Eight patients are shown in Table 5 due to the time period in which events are reported. AEs were reported for 12 hours or until hospital discharge (which limits the period in which such events can be reported). There is technically no time limit in which SAEs are to be reported. So, there were 7 AEs during the study and at least one SAE after the study.</p>
+<p id="p-0066" num="0065">A total of 4 patients had AEs assessed as being related to study drug. These events included bradycardia, low CO syndrome, ST segment elevation on the ECG, low O<sub>2 </sub>saturation, PH and hypotension. All but 2 AEs were mild or moderate in intensity and were resolved. Study treatments had slight and non-clinically significant effects on vital signs including heart rate, systolic arterial pressure and diastolic arterial pressure. When an investigator records an AE, they are required to say if (in their opinion) the event is related to the treatment or not. In this case, 4 of 7 were considered by the investigator to be related to treatment.</p>
+<p id="p-0067" num="0066">The upper limit of normal PCWP in children is 10-12 mm Hg and 15 mm Hg in adults. In INOT22, a baseline PCWP value was not included as exclusion criteria. However, after the surprising and unexpected identification of SAEs in the early tested patients, it was determined that patients with pre-existing LVD had an increased risk of experiencing an AE or SAE upon administration (e.g., worsening of left ventricular function due to the increased flow of blood through the lungs). Accordingly, the protocol for INOT22 was thereafter amended to exclude patients with a baseline PCWP greater than 20 mm Hg after one patient experienced acute circulatory collapse and died during the study. The value &#x201c;20 mm Hg&#x201d; was selected to avoid enrollment of a pediatric population with LVD such that they would be most likely at-risk for these SAEs.</p>
+<p id="p-0068" num="0067">SAEs were collected from the start of study treatment until hospital discharge or 12 hours, whichever occurred sooner. Three SAEs were reported during the study period, and a total of 7 SAEs were reported. Three of these were fatal SAEs and 4 were nonfatal (one of which led to study discontinuation). In addition, one non-serious AE also lead to discontinuation. A list of subjects who died, discontinued or experienced an SAE is provided in Table 5 below.</p>
+<p id="p-0069" num="0068">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 5</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Subjects that died, discontinued or experienced SAEs</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="77pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="left"/>
+<colspec colname="4" colwidth="28pt" align="left"/>
+<colspec colname="5" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Patient</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>Discontinued</entry>
+</row>
+<row>
+<entry>number</entry>
+<entry>AE</entry>
+<entry>Serious?</entry>
+<entry>Fatal?</entry>
+<entry>treatment?</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>01020</entry>
+<entry>Desaturation (hypoxia)</entry>
+<entry>No</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>02002</entry>
+<entry>Pulmonary edema</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry>04001</entry>
+<entry>Hypotension and cardiac</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>arrest</entry>
+</row>
+<row>
+<entry>04003</entry>
+<entry>Hypotension and ECG</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry/>
+<entry>changes</entry>
+</row>
+<row>
+<entry>04008</entry>
+<entry>Hypotension and</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>hypoxemia</entry>
+</row>
+<row>
+<entry>05002</entry>
+<entry>Hypoxia and bradycardia</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>(also pulmonary edema)</entry>
+</row>
+<row>
+<entry>07003</entry>
+<entry>Cardiac arrest</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry>17001</entry>
+<entry>Hypoxia</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0070" num="0069">Two of the 3 fatal SAEs were deemed related to therapy. All 4 non-fatal SAEs were also considered related to therapy. The numbers of patients and events were too small to determine whether risk for SAEs differed by treatment, diagnosis, age, gender or race. At least two patients developed signs of pulmonary edema (subjects 05002 and 02002). This is of interest because pulmonary edema has previously been reported with the use of iNO in patients with LVD, and may be related to decreasing PVRI and overfilling of the left atrium. (Hayward C S et al., 1996, Inhaled Nitric Oxide in Cardiac Failure: Vascular Versus Ventricular Effects, <i>J Cardiovascular Pharmacology </i>27:80-85; Bocchi E A et al., 1994, Inhaled Nitric Oxide Leading to Pulmonary Edema in Stable Severe Heart Failure, <i>Am J Cardiology </i>74:70-72; and, Semigran M J et al., 1994, Hemodynamic Effects of Inhaled Nitric Oxide in Heart Failure, <i>J Am Coll Cardiology </i>24:982-988).</p>
+<p id="p-0071" num="0070">Although the SAE rate is within range for this population, it appears that patients with the most elevated PCWP at baseline had a disproportionately high number of these events. (Bocchi E A et al., 1994; Semigran M J et al., 1994).</p>
+<p id="p-0072" num="0071">In the INOT22 study, 10 of the total 134 patients had a baseline PCWP&#x2267;18 mm Hg (7.5%), of which, 3 subjects (04001, 02002 and 04003) had a SAE or were prematurely discontinued from the study (30%) compared to 6.5% for the entire cohort.</p>
+<p id="p-0073" num="0072">Although there were very few significant AEs in the INOT22 study, these events are consistent with the expected physiologic changes in patients with severe LVD. The events also corroborate prior observations that iNO is rapidly acting, selective for the pulmonary vasculature, and well-tolerated in most patients. The actual incidence of acute LVD during acute ventricular failure (AVT) is unknown. However, it is reasonable to expect that a significant number of patients are at-risk for an increased incidence of SAEs upon iNO treatment based upon the nature of the underlying nature of the illness, i.e., pulmonary hypertension and cardiovascular disease more generally. Thus, it would be advantageous to have physicians identify these patients prior to beginning iNO treatment, so that the physicians are alerted to this possible outcome.</p>
+<p id="p-0074" num="0073">Benefits and Risks Conclusions. The INOT22 study was designed to demonstrate the physiologic effects of iNO in a well defined cohort of children (i.e., intended patient population) with pulmonary hypertension using a high concentration, 80 ppm, of iNO, i.e., one that would be expected to have the maximal pharmacodynamic effect. INOT22 was the largest and most rigorous pharmacodynamic study of iNO conducted to date, and it confirms a number of prior observations, such as iNO being rapidly acting, selective for the pulmonary vasculature, and well-tolerated in most patients.</p>
+<p id="p-0075" num="0074">It is also acknowledged that rapidly decreasing the PVR may be undesirable and even dangerous in patients with concomitant LVD. In the INOT22 study, the overall numbers of SAEs and fatal SAEs are within the expected range for patients with this degree of cardiopulmonary disease. The overall rate is 7/124 (5.6%), which is closely comparable to the rate of 6% recently reported in a very similar cohort of patients. (Taylor C J et al., 2007, Risk of cardiac catheterization under anaesthesia in children with pulmonary hypertension, <i>Br J Anaesth </i>98(5):657-61). Thus, the overall rate of SAEs would seem to be more closely related to the underlying severity of illness of the patients rather than to the treatments given during this study.</p>
+<p id="p-0076" num="0075">The INOT22 study results demonstrate that patients who had pre-existing LVD may experience an increased rate of SAEs (e.g., pulmonary edema). During the course of the study, the protocol was amended to exclude patients with a PCWP&#x3e;20 mmHg. The benefit/risk of using iNO in patients with clinically significant LVD should be evaluated on a case by case basis. A reduction in left ventricular afterload may perhaps be applied to minimize the occurrence of pulmonary edema.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of reducing the risk of occurrence of pulmonary edema associated with a medical treatment comprising inhalation of 20 ppm nitric oxide gas, said method comprising:
+<claim-text>(a) performing echocardiography to identify a child in need of 20 ppm inhaled nitric oxide treatment for pulmonary hypertension, wherein the child is not dependent on right-to-left shunting of blood;</claim-text>
+<claim-text>(b) determining that the child identified in (a) has a pulmonary capillary wedge pressure greater than or equal to 20 mm Hg and thus has left ventricular dysfunction, so is at particular risk of pulmonary edema upon treatment with inhaled nitric oxide; and</claim-text>
+<claim-text>(c) excluding the child from inhaled nitric oxide treatment based on the determination that the child has left ventricular dysfunction and so is at particular risk of pulmonary edema upon treatment with inhaled nitric oxide.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the child is a neonate.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein step (b) comprises measuring the child's pulmonary capillary wedge pressure.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the child's left ventricular dysfunction is attributable to congenital heart disease.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the child is determined to be at particular risk not only of pulmonary edema, but also of other Serious Adverse Events, upon treatment with inhaled nitric oxide, and the child is excluded from inhaled nitric oxide treatment based on the determination that the child has left ventricular dysfunction and so is at particular risk not only of pulmonary edema, but also of other Serious Adverse Events, upon treatment with inhaled nitric oxide.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A method of reducing the risk of occurrence of pulmonary edema associated with a medical treatment comprising inhalation of 20 ppm nitric oxide gas, said method comprising:
+<claim-text>(a) carrying out a diagnostic process comprising measuring blood oxygen level, to identify a child as being in need of 20 ppm inhaled nitric oxide treatment for hypoxic respiratory failure, wherein the child is not dependent on right-to-left shunting of blood;</claim-text>
+<claim-text>(b) determine determining that the child has a pulmonary capillary wedge pressure greater than or equal to 20 mm Hg and thus has left ventricular dysfunction, so is at particular risk of pulmonary edema upon treatment with inhaled nitric oxide; and</claim-text>
+<claim-text>(c) excluding the child from treatment with inhaled nitric oxide based on the determination that the child has left ventricular dysfunction and so is at particular risk of pulmonary edema upon treatment with inhaled nitric oxide.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the diagnostic process of step (a) further comprises performing echocardiography.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the child is a neonate.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein step (b) comprises measuring the child's pulmonary capillary wedge pressure.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the left ventricular dysfunction is attributable to congenital heart disease.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the child is determined to be at particular risk not only of pulmonary edema, but also of other Serious Adverse Events, upon treatment with inhaled nitric oxide, and the child is excluded from inhaled nitric oxide treatment based on the determination that the child has left ventricular dysfunction and so is at particular risk not only of pulmonary edema, but also other Serious Adverse Events, upon treatment with inhaled nitric oxide.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the left ventricular dysfunction is attributable to congenital heart disease.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A method of treatment comprising:
+<claim-text>(a) performing echocardiography to identify a plurality of children who are in need of 20 ppm inhaled nitric oxide treatment for pulmonary hypertension, wherein the children are not dependent on right-to-left shunting of blood;</claim-text>
+<claim-text>(b) determining that a first child of the plurality has a pulmonary capillary wedge pressure greater than or equal to 20 mm Hg and thus has left ventricular dysfunction, so is at particular risk of pulmonary edema upon treatment with inhaled nitric oxide;</claim-text>
+<claim-text>(c) determining that a second child of the plurality does not have left ventricular dysfunction;</claim-text>
+<claim-text>(d) administering the 20 ppm inhaled nitric oxide treatment to the second child; and</claim-text>
+<claim-text>(e) excluding the first child from treatment with inhaled nitric oxide, based on the determination that the first child has left ventricular dysfunction, so is at particular risk of pulmonary edema upon treatment with inhaled nitric oxide.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein step (a) further comprises measuring blood oxygen levels in the first and second children and thereby determining that the first and second children are hypoxic.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the second child has congenital heart disease.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein step (b) comprises measuring the first child's pulmonary capillary wedge pressure.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein determining that the second child of the plurality does not have pre-existing left ventricular dysfunction comprises performing echocardiography.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the left ventricular dysfunction is attributable to congenital heart disease.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the left ventricular dysfunction of the first child is attributable to congenital heart disease.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the first child is determined to be at particular risk not only of pulmonary edema, but also of other Serious Adverse Events, upon treatment with inhaled nitric oxide, and the first child is excluded from inhaled nitric oxide treatment based on the determination that the first child has left ventricular dysfunction and so is at particular risk not only of pulmonary edema, but also other Serious Adverse Events, upon treatment with inhaled nitric oxide.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the pre-existing left ventricular dysfunction of the first child is attributable to congenital heart disease.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. A method of treatment comprising:
+<claim-text>(a) identifying a plurality of children who are in need of 20 ppm inhaled nitric oxide treatment, wherein the children are not dependent on right-to-left shunting of blood;</claim-text>
+<claim-text>(b) in the first child of the plurality, measuring pulmonary capillary wedge pressure to determine that the first child of the plurality has a pulmonary capillary wedge pressure greater than or equal to 20 mm Hg and thus has left ventricular dysfunction, so is at particular risk of pulmonary edema upon treatment with inhaled nitric oxide;</claim-text>
+<claim-text>(c) in the second child of the plurality, performing echocardiography and/or measurement of pulmonary capillary wedge pressure to determine that the second child of the plurality does not have left ventricular dysfunction;</claim-text>
+<claim-text>(d) administering the 20 ppm inhaled nitric oxide treatment to the second child; and</claim-text>
+<claim-text>(e) excluding the first child from treatment with inhaled nitric oxide, based on the determination that the first child has left ventricular dysfunction, so is at particular risk of pulmonary edema upon treatment with inhaled nitric oxide.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein step (a) comprises performing echocardiography to determine that the first and second children have pulmonary hypertension.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein step (a) comprises measuring blood oxygen levels in the first and second children and thereby determining that the first and second children are hypoxic.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the second child has congenital heart disease.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the left ventricular dysfunction is attributable to congenital heart disease.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the pre-existing left ventricular dysfunction of the first child is attributable to congenital heart disease.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the first child is determined to be at particular risk not only of pulmonary edema, but also of other Serious Adverse Events, upon treatment with inhaled nitric oxide, and the first child is excluded from inhaled nitric oxide treatment based on the determination that the first child has pre-existing left ventricular dysfunction and so is at particular risk not only of pulmonary edema, but also other Serious Adverse Events, upon treatment with inhaled nitric oxide.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. The method of <claim-ref idref="CLM-00028">claim 28</claim-ref>, wherein the pre-existing left ventricular dysfunction of the first child is attributable to congenital heart disease.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
