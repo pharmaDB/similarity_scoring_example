@@ -39,4 +39,3 @@ tar -xf en_core_sci_scibert-0.4.0.tar.gz
 python run_nlp.py
 
 ```
-# similarity_scoring_example
