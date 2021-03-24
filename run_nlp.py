@@ -55,24 +55,18 @@ def label_section_to_patent_claim_similarity(labels_section_od,
     # print(patent_od_no_dependency)
     return_od = OrderedDict()
     for title in label_sections_od.keys():
-        # print("***title:", title)
         section_text = label_sections_od[title]
-        # print("***section_text: ", section_text)
         if section_text:
             patent_claim_similarity_list = []
             for patent_num in patent_od.keys():
-                # print("***patent_num: ", patent_num)
                 for claim_num in patent_od[patent_num].keys():
-                    # print("***claim_num: ", claim_num)
                     similarity_highest = 0
                     for claim_text in patent_od_no_dependency[patent_num][
                             claim_num]:
-                        # print("***claim_text: ", claim_text)
                         # test each alternative claim_text and choose
                         # highest similarity value
                         similarity = get_similarity(section_text, claim_text,
                                                     method)
-                        # print("***similarity: ", similarity)
                         if similarity > similarity_highest:
                             similarity_highest = similarity
                     patent_claim_similarity_list.append(
