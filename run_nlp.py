@@ -6,8 +6,9 @@ from collections import OrderedDict
 # load scispaCy models
 en_core_sci_lg_nlp = spacy.load(
     "en_core_sci_lg-0.4.0/en_core_sci_lg/en_core_sci_lg-0.4.0")
-en_core_sci_scibert_nlp = spacy.load(
-    "en_core_sci_scibert-0.4.0/en_core_sci_scibert/en_core_sci_scibert-0.4.0/")
+# removing bert for the time being; this pretrained model is very slow.
+# en_core_sci_scibert_nlp = spacy.load(
+#     "en_core_sci_scibert-0.4.0/en_core_sci_scibert/en_core_sci_scibert-0.4.0/")
 
 # cache for nlp object each consisting of [string, nlp_object]
 string_nlp_list1 = [""] * 2
@@ -51,19 +52,29 @@ def label_section_to_patent_claim_similarity(labels_section_od,
                                                 [claim_text, ...], ..}, ...}
         method (object): the model loaded by spaCy.load()
     '''
+    # print(patent_od_no_dependency)
     return_od = OrderedDict()
     for title in label_sections_od.keys():
+        # print("***title:", title)
         section_text = label_sections_od[title]
+        # print("***section_text: ", section_text)
         if section_text:
             patent_claim_similarity_list = []
             for patent_num in patent_od.keys():
+                # print("***patent_num: ", patent_num)
                 for claim_num in patent_od[patent_num].keys():
+                    # print("***claim_num: ", claim_num)
                     similarity_highest = 0
-                    for claim_text in patent_od[patent_num][claim_num]:
+                    for claim_text in patent_od_no_dependency[patent_num][
+                            claim_num]:
+                        # print("***claim_text: ", claim_text)
                         # test each alternative claim_text and choose
                         # highest similarity value
-                        similarity = get_similarity(
-                            section_text, claim_text, method)
+                        similarity = get_similarity(section_text, claim_text,
+                                                    method)
+                        # print("***similarity: ", similarity)
+                        if similarity > similarity_highest:
+                            similarity_highest = similarity
                     patent_claim_similarity_list.append(
                         (patent_num, claim_num, similarity_highest))
             # sort by similarity value
@@ -90,11 +101,20 @@ def pretty_print_best(label_sections_od, patent_od, similarity_od):
 
         if label_sections_od[title]:
             print(
-                "***Top 3 Best Ranked Patent Claims (patent_num, claim_num, similarity_score):***")
-            for i in range(1, 4):
-                patent=similarity_od[title][i][0]
-                claim=similarity_od[title][i][1]
-                print(similarity_od[title][i])
+                "***Top 3 Best Ranked Patent Claims (patent_num, claim_num, similarity_score):***"
+            )
+            top_three = similarity_od[title][:3]
+            for item in top_three:
+                # patent = similarity_od[title][i][0]
+                # claim = similarity_od[title][i][1]
+                print(item)
+
+            print(
+                "***3 Worst Ranked Patent Claims (patent_num, claim_num, similarity_score):***"
+            )
+            bottom_three = similarity_od[title][-3:]
+            for item in bottom_three:
+                print(item)
 
 
 if __name__ == '__main__':
@@ -113,7 +133,7 @@ if __name__ == '__main__':
         patent_num = patent_file[:-4]
         patent_od[patent_num] = read_patent("data/patent/" + patent_file)
         patent_od_no_dependency[patent_num] = read_patent_no_dependency(
-            "data/" + patent_file)
+            "data/patent/" + patent_file)
 
     # similarity scores in OrderedDict of {section_title:[(patent_num,
     # claim_num, similarity_score),...],...} using en_core_sci_lg model
@@ -122,8 +142,8 @@ if __name__ == '__main__':
     print("===Most Similar Claim Selected Using en_core_sci_lg Model===")
     pretty_print_best(label_sections_od, patent_od, similarity_od)
 
-    # similar scores in OrderedDict selected using en_core_sci_scibert model
-    similarity_od = label_section_to_patent_claim_similarity(
-        label_sections_od, patent_od_no_dependency, en_core_sci_scibert_nlp)
-    print("===Most Similar Claim Selected Using en_core_sci_scibert Model===")
-    pretty_print_best(label_sections_od, patent_od, similarity_od)
+    # # similar scores in OrderedDict selected using en_core_sci_scibert model
+    # similarity_od = label_section_to_patent_claim_similarity(
+    #     label_sections_od, patent_od_no_dependency, en_core_sci_scibert_nlp)
+    # print("===Most Similar Claim Selected Using en_core_sci_scibert Model===")
+    # pretty_print_best(label_sections_od, patent_od, similarity_od)
